@@ -1,0 +1,1456 @@
+event,day,strain,sex,feeding,Replicate,outcome
+1,3,MM-CP,male,sugar,1,1
+2,4,MM-CP,male,sugar,1,1
+3,7,MM-CP,male,sugar,1,1
+4,11,MM-CP,male,sugar,1,1
+5,12,MM-CP,male,sugar,1,1
+6,12,MM-CP,male,sugar,1,1
+7,12,MM-CP,male,sugar,1,1
+8,13,MM-CP,male,sugar,1,1
+9,13,MM-CP,male,sugar,1,1
+10,13,MM-CP,male,sugar,1,1
+11,13,MM-CP,male,sugar,1,1
+12,14,MM-CP,male,sugar,1,1
+13,14,MM-CP,male,sugar,1,1
+14,17,MM-CP,male,sugar,1,1
+15,17,MM-CP,male,sugar,1,1
+16,17,MM-CP,male,sugar,1,1
+17,18,MM-CP,male,sugar,1,1
+18,18,MM-CP,male,sugar,1,1
+19,18,MM-CP,male,sugar,1,1
+20,19,MM-CP,male,sugar,1,1
+21,19,MM-CP,male,sugar,1,1
+22,19,MM-CP,male,sugar,1,1
+23,19,MM-CP,male,sugar,1,1
+24,19,MM-CP,male,sugar,1,1
+25,19,MM-CP,male,sugar,1,1
+26,19,MM-CP,male,sugar,1,1
+27,20,MM-CP,male,sugar,1,1
+28,20,MM-CP,male,sugar,1,1
+29,20,MM-CP,male,sugar,1,1
+30,20,MM-CP,male,sugar,1,1
+31,21,MM-CP,male,sugar,1,1
+32,21,MM-CP,male,sugar,1,1
+33,21,MM-CP,male,sugar,1,1
+34,21,MM-CP,male,sugar,1,1
+35,22,MM-CP,male,sugar,1,1
+36,22,MM-CP,male,sugar,1,1
+37,22,MM-CP,male,sugar,1,1
+38,22,MM-CP,male,sugar,1,1
+39,22,MM-CP,male,sugar,1,1
+40,22,MM-CP,male,sugar,1,1
+41,22,MM-CP,male,sugar,1,1
+42,22,MM-CP,male,sugar,1,1
+43,22,MM-CP,male,sugar,1,1
+44,22,MM-CP,male,sugar,1,1
+45,22,MM-CP,male,sugar,1,1
+46,23,MM-CP,male,sugar,1,1
+47,23,MM-CP,male,sugar,1,1
+48,23,MM-CP,male,sugar,1,1
+49,23,MM-CP,male,sugar,1,1
+50,23,MM-CP,male,sugar,1,1
+51,23,MM-CP,male,sugar,1,1
+52,23,MM-CP,male,sugar,1,1
+53,23,MM-CP,male,sugar,1,1
+54,23,MM-CP,male,sugar,1,1
+55,23,MM-CP,male,sugar,1,1
+56,23,MM-CP,male,sugar,1,1
+57,23,MM-CP,male,sugar,1,1
+58,23,MM-CP,male,sugar,1,1
+59,23,MM-CP,male,sugar,1,1
+60,24,MM-CP,male,sugar,1,1
+61,24,MM-CP,male,sugar,1,1
+62,24,MM-CP,male,sugar,1,1
+63,24,MM-CP,male,sugar,1,1
+64,24,MM-CP,male,sugar,1,1
+65,24,MM-CP,male,sugar,1,1
+66,24,MM-CP,male,sugar,1,1
+67,24,MM-CP,male,sugar,1,1
+68,24,MM-CP,male,sugar,1,1
+69,24,MM-CP,male,sugar,1,1
+70,24,MM-CP,male,sugar,1,1
+71,25,MM-CP,male,sugar,1,1
+72,25,MM-CP,male,sugar,1,1
+73,25,MM-CP,male,sugar,1,1
+74,25,MM-CP,male,sugar,1,1
+75,25,MM-CP,male,sugar,1,1
+76,25,MM-CP,male,sugar,1,1
+77,25,MM-CP,male,sugar,1,1
+78,25,MM-CP,male,sugar,1,1
+79,25,MM-CP,male,sugar,1,1
+80,25,MM-CP,male,sugar,1,1
+81,25,MM-CP,male,sugar,1,1
+82,25,MM-CP,male,sugar,1,1
+83,26,MM-CP,male,sugar,1,1
+84,26,MM-CP,male,sugar,1,1
+85,26,MM-CP,male,sugar,1,1
+86,26,MM-CP,male,sugar,1,1
+87,26,MM-CP,male,sugar,1,1
+88,26,MM-CP,male,sugar,1,1
+89,26,MM-CP,male,sugar,1,1
+90,26,MM-CP,male,sugar,1,1
+91,26,MM-CP,male,sugar,1,1
+92,27,MM-CP,male,sugar,1,1
+93,27,MM-CP,male,sugar,1,1
+94,27,MM-CP,male,sugar,1,1
+95,27,MM-CP,male,sugar,1,1
+96,27,MM-CP,male,sugar,1,1
+97,27,MM-CP,male,sugar,1,1
+98,28,MM-CP,male,sugar,1,1
+99,28,MM-CP,male,sugar,1,1
+100,28,MM-CP,male,sugar,1,1
+101,28,MM-CP,male,sugar,1,1
+102,28,MM-CP,male,sugar,1,1
+103,28,MM-CP,male,sugar,1,1
+104,28,MM-CP,male,sugar,1,1
+105,29,MM-CP,male,sugar,1,1
+106,30,MM-CP,male,sugar,1,1
+107,31,MM-CP,male,sugar,1,1
+108,2,MM-CP,female,sugar,1,1
+109,2,MM-CP,female,sugar,1,1
+110,4,MM-CP,female,sugar,1,1
+111,5,MM-CP,female,sugar,1,1
+112,6,MM-CP,female,sugar,1,1
+113,7,MM-CP,female,sugar,1,1
+114,7,MM-CP,female,sugar,1,1
+115,8,MM-CP,female,sugar,1,1
+116,8,MM-CP,female,sugar,1,1
+117,8,MM-CP,female,sugar,1,1
+118,8,MM-CP,female,sugar,1,1
+119,8,MM-CP,female,sugar,1,1
+120,9,MM-CP,female,sugar,1,1
+121,9,MM-CP,female,sugar,1,1
+122,10,MM-CP,female,sugar,1,1
+123,10,MM-CP,female,sugar,1,1
+124,10,MM-CP,female,sugar,1,1
+125,11,MM-CP,female,sugar,1,1
+126,11,MM-CP,female,sugar,1,1
+127,11,MM-CP,female,sugar,1,1
+128,11,MM-CP,female,sugar,1,1
+129,11,MM-CP,female,sugar,1,1
+130,11,MM-CP,female,sugar,1,1
+131,12,MM-CP,female,sugar,1,1
+132,12,MM-CP,female,sugar,1,1
+133,12,MM-CP,female,sugar,1,1
+134,12,MM-CP,female,sugar,1,1
+135,12,MM-CP,female,sugar,1,1
+136,12,MM-CP,female,sugar,1,1
+137,13,MM-CP,female,sugar,1,1
+138,13,MM-CP,female,sugar,1,1
+139,13,MM-CP,female,sugar,1,1
+140,13,MM-CP,female,sugar,1,1
+141,13,MM-CP,female,sugar,1,1
+142,13,MM-CP,female,sugar,1,1
+143,13,MM-CP,female,sugar,1,1
+144,13,MM-CP,female,sugar,1,1
+145,14,MM-CP,female,sugar,1,1
+146,14,MM-CP,female,sugar,1,1
+147,14,MM-CP,female,sugar,1,1
+148,14,MM-CP,female,sugar,1,1
+149,15,MM-CP,female,sugar,1,1
+150,15,MM-CP,female,sugar,1,1
+151,15,MM-CP,female,sugar,1,1
+152,15,MM-CP,female,sugar,1,1
+153,16,MM-CP,female,sugar,1,1
+154,16,MM-CP,female,sugar,1,1
+155,16,MM-CP,female,sugar,1,1
+156,16,MM-CP,female,sugar,1,1
+157,16,MM-CP,female,sugar,1,1
+158,16,MM-CP,female,sugar,1,1
+159,16,MM-CP,female,sugar,1,1
+160,16,MM-CP,female,sugar,1,1
+161,16,MM-CP,female,sugar,1,1
+162,17,MM-CP,female,sugar,1,1
+163,17,MM-CP,female,sugar,1,1
+164,17,MM-CP,female,sugar,1,1
+165,17,MM-CP,female,sugar,1,1
+166,18,MM-CP,female,sugar,1,1
+167,18,MM-CP,female,sugar,1,1
+168,18,MM-CP,female,sugar,1,1
+169,18,MM-CP,female,sugar,1,1
+170,18,MM-CP,female,sugar,1,1
+171,19,MM-CP,female,sugar,1,1
+172,19,MM-CP,female,sugar,1,1
+173,19,MM-CP,female,sugar,1,1
+174,19,MM-CP,female,sugar,1,1
+175,19,MM-CP,female,sugar,1,1
+176,19,MM-CP,female,sugar,1,1
+177,19,MM-CP,female,sugar,1,1
+178,19,MM-CP,female,sugar,1,1
+179,19,MM-CP,female,sugar,1,1
+180,19,MM-CP,female,sugar,1,1
+181,19,MM-CP,female,sugar,1,1
+182,19,MM-CP,female,sugar,1,1
+183,19,MM-CP,female,sugar,1,1
+184,19,MM-CP,female,sugar,1,1
+185,19,MM-CP,female,sugar,1,1
+186,20,MM-CP,female,sugar,1,1
+187,20,MM-CP,female,sugar,1,1
+188,20,MM-CP,female,sugar,1,1
+189,20,MM-CP,female,sugar,1,1
+190,20,MM-CP,female,sugar,1,1
+191,20,MM-CP,female,sugar,1,1
+192,20,MM-CP,female,sugar,1,1
+193,20,MM-CP,female,sugar,1,1
+194,20,MM-CP,female,sugar,1,1
+195,20,MM-CP,female,sugar,1,1
+196,20,MM-CP,female,sugar,1,1
+197,21,MM-CP,female,sugar,1,1
+198,21,MM-CP,female,sugar,1,1
+199,21,MM-CP,female,sugar,1,1
+200,21,MM-CP,female,sugar,1,1
+201,21,MM-CP,female,sugar,1,1
+202,21,MM-CP,female,sugar,1,1
+203,22,MM-CP,female,sugar,1,1
+204,22,MM-CP,female,sugar,1,1
+205,22,MM-CP,female,sugar,1,1
+206,22,MM-CP,female,sugar,1,1
+207,22,MM-CP,female,sugar,1,1
+208,22,MM-CP,female,sugar,1,1
+209,22,MM-CP,female,sugar,1,1
+210,22,MM-CP,female,sugar,1,1
+211,22,MM-CP,female,sugar,1,1
+212,22,MM-CP,female,sugar,1,1
+213,22,MM-CP,female,sugar,1,1
+214,22,MM-CP,female,sugar,1,1
+215,22,MM-CP,female,sugar,1,1
+216,22,MM-CP,female,sugar,1,1
+217,23,MM-CP,female,sugar,1,1
+218,23,MM-CP,female,sugar,1,1
+219,23,MM-CP,female,sugar,1,1
+220,23,MM-CP,female,sugar,1,1
+221,23,MM-CP,female,sugar,1,1
+222,24,MM-CP,female,sugar,1,1
+223,24,MM-CP,female,sugar,1,1
+224,24,MM-CP,female,sugar,1,1
+225,24,MM-CP,female,sugar,1,1
+226,25,MM-CP,female,sugar,1,1
+227,25,MM-CP,female,sugar,1,1
+228,25,MM-CP,female,sugar,1,1
+229,25,MM-CP,female,sugar,1,1
+230,26,MM-CP,female,sugar,1,1
+231,27,MM-CP,female,sugar,1,1
+232,27,MM-CP,female,sugar,1,1
+233,27,MM-CP,female,sugar,1,1
+234,27,MM-CP,female,sugar,1,1
+235,28,MM-CP,female,sugar,1,1
+236,29,MM-CP,female,sugar,1,1
+237,29,MM-CP,female,sugar,1,1
+238,3,WT,male,sugar,1,1
+239,3,WT,male,sugar,1,1
+240,10,WT,male,sugar,1,1
+241,14,WT,male,sugar,1,1
+242,14,WT,male,sugar,1,1
+243,16,WT,male,sugar,1,1
+244,20,WT,male,sugar,1,1
+245,21,WT,male,sugar,1,1
+246,22,WT,male,sugar,1,1
+247,22,WT,male,sugar,1,1
+248,22,WT,male,sugar,1,1
+249,22,WT,male,sugar,1,1
+250,22,WT,male,sugar,1,1
+251,23,WT,male,sugar,1,1
+252,23,WT,male,sugar,1,1
+253,23,WT,male,sugar,1,1
+254,23,WT,male,sugar,1,1
+255,23,WT,male,sugar,1,1
+256,24,WT,male,sugar,1,1
+257,24,WT,male,sugar,1,1
+258,24,WT,male,sugar,1,1
+259,24,WT,male,sugar,1,1
+260,24,WT,male,sugar,1,1
+261,24,WT,male,sugar,1,1
+262,24,WT,male,sugar,1,1
+263,24,WT,male,sugar,1,1
+264,24,WT,male,sugar,1,1
+265,24,WT,male,sugar,1,1
+266,24,WT,male,sugar,1,1
+267,25,WT,male,sugar,1,1
+268,25,WT,male,sugar,1,1
+269,25,WT,male,sugar,1,1
+270,25,WT,male,sugar,1,1
+271,25,WT,male,sugar,1,1
+272,25,WT,male,sugar,1,1
+273,25,WT,male,sugar,1,1
+274,25,WT,male,sugar,1,1
+275,26,WT,male,sugar,1,1
+276,26,WT,male,sugar,1,1
+277,26,WT,male,sugar,1,1
+278,26,WT,male,sugar,1,1
+279,26,WT,male,sugar,1,1
+280,26,WT,male,sugar,1,1
+281,27,WT,male,sugar,1,1
+282,27,WT,male,sugar,1,1
+283,27,WT,male,sugar,1,1
+284,27,WT,male,sugar,1,1
+285,27,WT,male,sugar,1,1
+286,27,WT,male,sugar,1,1
+287,27,WT,male,sugar,1,1
+288,27,WT,male,sugar,1,1
+289,27,WT,male,sugar,1,1
+290,27,WT,male,sugar,1,1
+291,27,WT,male,sugar,1,1
+292,28,WT,male,sugar,1,1
+293,28,WT,male,sugar,1,1
+294,28,WT,male,sugar,1,1
+295,28,WT,male,sugar,1,1
+296,28,WT,male,sugar,1,1
+297,28,WT,male,sugar,1,1
+298,28,WT,male,sugar,1,1
+299,28,WT,male,sugar,1,1
+300,28,WT,male,sugar,1,1
+301,28,WT,male,sugar,1,1
+302,28,WT,male,sugar,1,1
+303,28,WT,male,sugar,1,1
+304,29,WT,male,sugar,1,1
+305,29,WT,male,sugar,1,1
+306,29,WT,male,sugar,1,1
+307,29,WT,male,sugar,1,1
+308,29,WT,male,sugar,1,1
+309,29,WT,male,sugar,1,1
+310,29,WT,male,sugar,1,1
+311,29,WT,male,sugar,1,1
+312,29,WT,male,sugar,1,1
+313,29,WT,male,sugar,1,1
+314,29,WT,male,sugar,1,1
+315,29,WT,male,sugar,1,1
+316,29,WT,male,sugar,1,1
+317,29,WT,male,sugar,1,1
+318,29,WT,male,sugar,1,1
+319,29,WT,male,sugar,1,1
+320,30,WT,male,sugar,1,1
+321,30,WT,male,sugar,1,1
+322,30,WT,male,sugar,1,1
+323,30,WT,male,sugar,1,1
+324,30,WT,male,sugar,1,1
+325,30,WT,male,sugar,1,1
+326,30,WT,male,sugar,1,1
+327,31,WT,male,sugar,1,1
+328,31,WT,male,sugar,1,1
+329,31,WT,male,sugar,1,1
+330,31,WT,male,sugar,1,1
+331,31,WT,male,sugar,1,1
+332,31,WT,male,sugar,1,1
+333,31,WT,male,sugar,1,1
+334,32,WT,male,sugar,1,1
+335,32,WT,male,sugar,1,1
+336,32,WT,male,sugar,1,1
+337,32,WT,male,sugar,1,1
+338,33,WT,male,sugar,1,1
+339,33,WT,male,sugar,1,1
+340,33,WT,male,sugar,1,1
+341,34,WT,male,sugar,1,1
+342,34,WT,male,sugar,1,1
+343,3,WT,female,sugar,1,1
+344,7,WT,female,sugar,1,1
+345,9,WT,female,sugar,1,1
+346,9,WT,female,sugar,1,1
+347,13,WT,female,sugar,1,1
+348,14,WT,female,sugar,1,1
+349,18,WT,female,sugar,1,1
+350,19,WT,female,sugar,1,1
+351,19,WT,female,sugar,1,1
+352,20,WT,female,sugar,1,1
+353,20,WT,female,sugar,1,1
+354,20,WT,female,sugar,1,1
+355,21,WT,female,sugar,1,1
+356,21,WT,female,sugar,1,1
+357,22,WT,female,sugar,1,1
+358,22,WT,female,sugar,1,1
+359,23,WT,female,sugar,1,1
+360,23,WT,female,sugar,1,1
+361,23,WT,female,sugar,1,1
+362,23,WT,female,sugar,1,1
+363,23,WT,female,sugar,1,1
+364,23,WT,female,sugar,1,1
+365,23,WT,female,sugar,1,1
+366,24,WT,female,sugar,1,1
+367,24,WT,female,sugar,1,1
+368,24,WT,female,sugar,1,1
+369,24,WT,female,sugar,1,1
+370,24,WT,female,sugar,1,1
+371,24,WT,female,sugar,1,1
+372,24,WT,female,sugar,1,1
+373,24,WT,female,sugar,1,1
+374,24,WT,female,sugar,1,1
+375,24,WT,female,sugar,1,1
+376,25,WT,female,sugar,1,1
+377,25,WT,female,sugar,1,1
+378,25,WT,female,sugar,1,1
+379,25,WT,female,sugar,1,1
+380,25,WT,female,sugar,1,1
+381,26,WT,female,sugar,1,1
+382,26,WT,female,sugar,1,1
+383,26,WT,female,sugar,1,1
+384,26,WT,female,sugar,1,1
+385,26,WT,female,sugar,1,1
+386,26,WT,female,sugar,1,1
+387,26,WT,female,sugar,1,1
+388,26,WT,female,sugar,1,1
+389,26,WT,female,sugar,1,1
+390,26,WT,female,sugar,1,1
+391,26,WT,female,sugar,1,1
+392,26,WT,female,sugar,1,1
+393,26,WT,female,sugar,1,1
+394,26,WT,female,sugar,1,1
+395,26,WT,female,sugar,1,1
+396,26,WT,female,sugar,1,1
+397,26,WT,female,sugar,1,1
+398,26,WT,female,sugar,1,1
+399,26,WT,female,sugar,1,1
+400,26,WT,female,sugar,1,1
+401,27,WT,female,sugar,1,1
+402,27,WT,female,sugar,1,1
+403,27,WT,female,sugar,1,1
+404,27,WT,female,sugar,1,1
+405,27,WT,female,sugar,1,1
+406,27,WT,female,sugar,1,1
+407,27,WT,female,sugar,1,1
+408,27,WT,female,sugar,1,1
+409,27,WT,female,sugar,1,1
+410,27,WT,female,sugar,1,1
+411,28,WT,female,sugar,1,1
+412,28,WT,female,sugar,1,1
+413,28,WT,female,sugar,1,1
+414,28,WT,female,sugar,1,1
+415,28,WT,female,sugar,1,1
+416,28,WT,female,sugar,1,1
+417,28,WT,female,sugar,1,1
+418,28,WT,female,sugar,1,1
+419,28,WT,female,sugar,1,1
+420,28,WT,female,sugar,1,1
+421,28,WT,female,sugar,1,1
+422,28,WT,female,sugar,1,1
+423,28,WT,female,sugar,1,1
+424,29,WT,female,sugar,1,1
+425,29,WT,female,sugar,1,1
+426,29,WT,female,sugar,1,1
+427,29,WT,female,sugar,1,1
+428,30,WT,female,sugar,1,1
+429,30,WT,female,sugar,1,1
+430,30,WT,female,sugar,1,1
+431,30,WT,female,sugar,1,1
+432,30,WT,female,sugar,1,1
+433,30,WT,female,sugar,1,1
+434,30,WT,female,sugar,1,1
+435,31,WT,female,sugar,1,1
+436,31,WT,female,sugar,1,1
+437,31,WT,female,sugar,1,1
+438,31,WT,female,sugar,1,1
+439,31,WT,female,sugar,1,1
+440,31,WT,female,sugar,1,1
+441,32,WT,female,sugar,1,1
+442,32,WT,female,sugar,1,1
+443,32,WT,female,sugar,1,1
+444,32,WT,female,sugar,1,1
+445,32,WT,female,sugar,1,1
+446,32,WT,female,sugar,1,1
+447,33,WT,female,sugar,1,1
+448,35,WT,female,sugar,1,1
+449,36,WT,female,sugar,1,1
+450,36,WT,female,sugar,1,1
+451,1,MM-CP,male,sugar,2,1
+452,3,MM-CP,male,sugar,2,1
+453,5,MM-CP,male,sugar,2,1
+454,11,MM-CP,male,sugar,2,1
+455,11,MM-CP,male,sugar,2,1
+456,11,MM-CP,male,sugar,2,1
+457,12,MM-CP,male,sugar,2,1
+458,12,MM-CP,male,sugar,2,1
+459,12,MM-CP,male,sugar,2,1
+460,12,MM-CP,male,sugar,2,1
+461,12,MM-CP,male,sugar,2,1
+462,12,MM-CP,male,sugar,2,1
+463,13,MM-CP,male,sugar,2,1
+464,13,MM-CP,male,sugar,2,1
+465,14,MM-CP,male,sugar,2,1
+466,14,MM-CP,male,sugar,2,1
+467,14,MM-CP,male,sugar,2,1
+468,14,MM-CP,male,sugar,2,1
+469,14,MM-CP,male,sugar,2,1
+470,14,MM-CP,male,sugar,2,1
+471,14,MM-CP,male,sugar,2,1
+472,14,MM-CP,male,sugar,2,1
+473,14,MM-CP,male,sugar,2,1
+474,14,MM-CP,male,sugar,2,1
+475,14,MM-CP,male,sugar,2,1
+476,14,MM-CP,male,sugar,2,1
+477,15,MM-CP,male,sugar,2,1
+478,15,MM-CP,male,sugar,2,1
+479,15,MM-CP,male,sugar,2,1
+480,15,MM-CP,male,sugar,2,1
+481,16,MM-CP,male,sugar,2,1
+482,16,MM-CP,male,sugar,2,1
+483,16,MM-CP,male,sugar,2,1
+484,16,MM-CP,male,sugar,2,1
+485,16,MM-CP,male,sugar,2,1
+486,17,MM-CP,male,sugar,2,1
+487,17,MM-CP,male,sugar,2,1
+488,17,MM-CP,male,sugar,2,1
+489,17,MM-CP,male,sugar,2,1
+490,17,MM-CP,male,sugar,2,1
+491,17,MM-CP,male,sugar,2,1
+492,17,MM-CP,male,sugar,2,1
+493,17,MM-CP,male,sugar,2,1
+494,18,MM-CP,male,sugar,2,1
+495,18,MM-CP,male,sugar,2,1
+496,18,MM-CP,male,sugar,2,1
+497,18,MM-CP,male,sugar,2,1
+498,18,MM-CP,male,sugar,2,1
+499,18,MM-CP,male,sugar,2,1
+500,19,MM-CP,male,sugar,2,1
+501,19,MM-CP,male,sugar,2,1
+502,19,MM-CP,male,sugar,2,1
+503,20,MM-CP,male,sugar,2,1
+504,20,MM-CP,male,sugar,2,1
+505,20,MM-CP,male,sugar,2,1
+506,20,MM-CP,male,sugar,2,1
+507,20,MM-CP,male,sugar,2,1
+508,21,MM-CP,male,sugar,2,1
+509,22,MM-CP,male,sugar,2,1
+510,22,MM-CP,male,sugar,2,1
+511,22,MM-CP,male,sugar,2,1
+512,22,MM-CP,male,sugar,2,1
+513,23,MM-CP,male,sugar,2,1
+514,23,MM-CP,male,sugar,2,1
+515,24,MM-CP,male,sugar,2,1
+516,24,MM-CP,male,sugar,2,1
+517,24,MM-CP,male,sugar,2,1
+518,24,MM-CP,male,sugar,2,1
+519,24,MM-CP,male,sugar,2,1
+520,24,MM-CP,male,sugar,2,1
+521,24,MM-CP,male,sugar,2,1
+522,25,MM-CP,male,sugar,2,1
+523,25,MM-CP,male,sugar,2,1
+524,26,MM-CP,male,sugar,2,1
+525,26,MM-CP,male,sugar,2,1
+526,28,MM-CP,male,sugar,2,1
+527,29,MM-CP,male,sugar,2,1
+528,29,MM-CP,male,sugar,2,1
+529,30,MM-CP,male,sugar,2,1
+530,30,MM-CP,male,sugar,2,1
+531,30,MM-CP,male,sugar,2,1
+532,30,MM-CP,male,sugar,2,1
+533,32,MM-CP,male,sugar,2,1
+534,5,MM-CP,female,sugar,2,1
+535,7,MM-CP,female,sugar,2,1
+536,8,MM-CP,female,sugar,2,1
+537,8,MM-CP,female,sugar,2,1
+538,8,MM-CP,female,sugar,2,1
+539,8,MM-CP,female,sugar,2,1
+540,8,MM-CP,female,sugar,2,1
+541,8,MM-CP,female,sugar,2,1
+542,9,MM-CP,female,sugar,2,1
+543,9,MM-CP,female,sugar,2,1
+544,9,MM-CP,female,sugar,2,1
+545,9,MM-CP,female,sugar,2,1
+546,9,MM-CP,female,sugar,2,1
+547,10,MM-CP,female,sugar,2,1
+548,10,MM-CP,female,sugar,2,1
+549,10,MM-CP,female,sugar,2,1
+550,10,MM-CP,female,sugar,2,1
+551,10,MM-CP,female,sugar,2,1
+552,10,MM-CP,female,sugar,2,1
+553,11,MM-CP,female,sugar,2,1
+554,11,MM-CP,female,sugar,2,1
+555,11,MM-CP,female,sugar,2,1
+556,12,MM-CP,female,sugar,2,1
+557,12,MM-CP,female,sugar,2,1
+558,12,MM-CP,female,sugar,2,1
+559,12,MM-CP,female,sugar,2,1
+560,12,MM-CP,female,sugar,2,1
+561,13,MM-CP,female,sugar,2,1
+562,13,MM-CP,female,sugar,2,1
+563,13,MM-CP,female,sugar,2,1
+564,13,MM-CP,female,sugar,2,1
+565,13,MM-CP,female,sugar,2,1
+566,13,MM-CP,female,sugar,2,1
+567,13,MM-CP,female,sugar,2,1
+568,13,MM-CP,female,sugar,2,1
+569,13,MM-CP,female,sugar,2,1
+570,13,MM-CP,female,sugar,2,1
+571,14,MM-CP,female,sugar,2,1
+572,14,MM-CP,female,sugar,2,1
+573,14,MM-CP,female,sugar,2,1
+574,14,MM-CP,female,sugar,2,1
+575,14,MM-CP,female,sugar,2,1
+576,14,MM-CP,female,sugar,2,1
+577,15,MM-CP,female,sugar,2,1
+578,15,MM-CP,female,sugar,2,1
+579,15,MM-CP,female,sugar,2,1
+580,15,MM-CP,female,sugar,2,1
+581,15,MM-CP,female,sugar,2,1
+582,15,MM-CP,female,sugar,2,1
+583,15,MM-CP,female,sugar,2,1
+584,15,MM-CP,female,sugar,2,1
+585,16,MM-CP,female,sugar,2,1
+586,16,MM-CP,female,sugar,2,1
+587,16,MM-CP,female,sugar,2,1
+588,17,MM-CP,female,sugar,2,1
+589,17,MM-CP,female,sugar,2,1
+590,17,MM-CP,female,sugar,2,1
+591,17,MM-CP,female,sugar,2,1
+592,17,MM-CP,female,sugar,2,1
+593,17,MM-CP,female,sugar,2,1
+594,18,MM-CP,female,sugar,2,1
+595,18,MM-CP,female,sugar,2,1
+596,18,MM-CP,female,sugar,2,1
+597,18,MM-CP,female,sugar,2,1
+598,18,MM-CP,female,sugar,2,1
+599,18,MM-CP,female,sugar,2,1
+600,18,MM-CP,female,sugar,2,1
+601,18,MM-CP,female,sugar,2,1
+602,18,MM-CP,female,sugar,2,1
+603,19,MM-CP,female,sugar,2,1
+604,19,MM-CP,female,sugar,2,1
+605,19,MM-CP,female,sugar,2,1
+606,19,MM-CP,female,sugar,2,1
+607,21,MM-CP,female,sugar,2,1
+608,21,MM-CP,female,sugar,2,1
+609,22,MM-CP,female,sugar,2,1
+610,22,MM-CP,female,sugar,2,1
+611,22,MM-CP,female,sugar,2,1
+612,23,MM-CP,female,sugar,2,1
+613,23,MM-CP,female,sugar,2,1
+614,24,MM-CP,female,sugar,2,1
+615,24,MM-CP,female,sugar,2,1
+616,25,MM-CP,female,sugar,2,1
+617,25,MM-CP,female,sugar,2,1
+618,26,MM-CP,female,sugar,2,1
+619,26,MM-CP,female,sugar,2,1
+620,28,MM-CP,female,sugar,2,1
+621,29,MM-CP,female,sugar,2,1
+622,29,MM-CP,female,sugar,2,1
+623,2,WT,male,sugar,2,1
+624,2,WT,male,sugar,2,1
+625,2,WT,male,sugar,2,1
+626,2,WT,male,sugar,2,1
+627,3,WT,male,sugar,2,1
+628,4,WT,male,sugar,2,1
+629,5,WT,male,sugar,2,1
+630,9,WT,male,sugar,2,1
+631,9,WT,male,sugar,2,1
+632,11,WT,male,sugar,2,1
+633,12,WT,male,sugar,2,1
+634,14,WT,male,sugar,2,1
+635,16,WT,male,sugar,2,1
+636,17,WT,male,sugar,2,1
+637,17,WT,male,sugar,2,1
+638,17,WT,male,sugar,2,1
+639,17,WT,male,sugar,2,1
+640,18,WT,male,sugar,2,1
+641,18,WT,male,sugar,2,1
+642,18,WT,male,sugar,2,1
+643,18,WT,male,sugar,2,1
+644,18,WT,male,sugar,2,1
+645,19,WT,male,sugar,2,1
+646,19,WT,male,sugar,2,1
+647,20,WT,male,sugar,2,1
+648,21,WT,male,sugar,2,1
+649,21,WT,male,sugar,2,1
+650,22,WT,male,sugar,2,1
+651,22,WT,male,sugar,2,1
+652,22,WT,male,sugar,2,1
+653,23,WT,male,sugar,2,1
+654,23,WT,male,sugar,2,1
+655,23,WT,male,sugar,2,1
+656,23,WT,male,sugar,2,1
+657,24,WT,male,sugar,2,1
+658,24,WT,male,sugar,2,1
+659,24,WT,male,sugar,2,1
+660,24,WT,male,sugar,2,1
+661,24,WT,male,sugar,2,1
+662,25,WT,male,sugar,2,1
+663,25,WT,male,sugar,2,1
+664,25,WT,male,sugar,2,1
+665,26,WT,male,sugar,2,1
+666,26,WT,male,sugar,2,1
+667,26,WT,male,sugar,2,1
+668,26,WT,male,sugar,2,1
+669,27,WT,male,sugar,2,1
+670,27,WT,male,sugar,2,1
+671,27,WT,male,sugar,2,1
+672,27,WT,male,sugar,2,1
+673,27,WT,male,sugar,2,1
+674,27,WT,male,sugar,2,1
+675,28,WT,male,sugar,2,1
+676,28,WT,male,sugar,2,1
+677,28,WT,male,sugar,2,1
+678,28,WT,male,sugar,2,1
+679,28,WT,male,sugar,2,1
+680,28,WT,male,sugar,2,1
+681,28,WT,male,sugar,2,1
+682,28,WT,male,sugar,2,1
+683,28,WT,male,sugar,2,1
+684,28,WT,male,sugar,2,1
+685,28,WT,male,sugar,2,1
+686,28,WT,male,sugar,2,1
+687,28,WT,male,sugar,2,1
+688,28,WT,male,sugar,2,1
+689,29,WT,male,sugar,2,1
+690,29,WT,male,sugar,2,1
+691,29,WT,male,sugar,2,1
+692,29,WT,male,sugar,2,1
+693,30,WT,male,sugar,2,1
+694,30,WT,male,sugar,2,1
+695,31,WT,male,sugar,2,1
+696,31,WT,male,sugar,2,1
+697,32,WT,male,sugar,2,1
+698,32,WT,male,sugar,2,1
+699,32,WT,male,sugar,2,1
+700,32,WT,male,sugar,2,1
+701,33,WT,male,sugar,2,1
+702,34,WT,male,sugar,2,1
+703,34,WT,male,sugar,2,1
+704,34,WT,male,sugar,2,1
+705,40,WT,male,sugar,2,1
+706,2,WT,female,sugar,2,1
+707,7,WT,female,sugar,2,1
+708,9,WT,female,sugar,2,1
+709,9,WT,female,sugar,2,1
+710,15,WT,female,sugar,2,1
+711,17,WT,female,sugar,2,1
+712,17,WT,female,sugar,2,1
+713,18,WT,female,sugar,2,1
+714,22,WT,female,sugar,2,1
+715,24,WT,female,sugar,2,1
+716,24,WT,female,sugar,2,1
+717,24,WT,female,sugar,2,1
+718,25,WT,female,sugar,2,1
+719,25,WT,female,sugar,2,1
+720,25,WT,female,sugar,2,1
+721,25,WT,female,sugar,2,1
+722,26,WT,female,sugar,2,1
+723,26,WT,female,sugar,2,1
+724,26,WT,female,sugar,2,1
+725,26,WT,female,sugar,2,1
+726,26,WT,female,sugar,2,1
+727,27,WT,female,sugar,2,1
+728,27,WT,female,sugar,2,1
+729,27,WT,female,sugar,2,1
+730,27,WT,female,sugar,2,1
+731,27,WT,female,sugar,2,1
+732,27,WT,female,sugar,2,1
+733,27,WT,female,sugar,2,1
+734,28,WT,female,sugar,2,1
+735,28,WT,female,sugar,2,1
+736,28,WT,female,sugar,2,1
+737,28,WT,female,sugar,2,1
+738,28,WT,female,sugar,2,1
+739,28,WT,female,sugar,2,1
+740,28,WT,female,sugar,2,1
+741,28,WT,female,sugar,2,1
+742,28,WT,female,sugar,2,1
+743,28,WT,female,sugar,2,1
+744,28,WT,female,sugar,2,1
+745,28,WT,female,sugar,2,1
+746,28,WT,female,sugar,2,1
+747,28,WT,female,sugar,2,1
+748,28,WT,female,sugar,2,1
+749,28,WT,female,sugar,2,1
+750,28,WT,female,sugar,2,1
+751,28,WT,female,sugar,2,1
+752,28,WT,female,sugar,2,1
+753,29,WT,female,sugar,2,1
+754,29,WT,female,sugar,2,1
+755,29,WT,female,sugar,2,1
+756,29,WT,female,sugar,2,1
+757,29,WT,female,sugar,2,1
+758,29,WT,female,sugar,2,1
+759,29,WT,female,sugar,2,1
+760,30,WT,female,sugar,2,1
+761,30,WT,female,sugar,2,1
+762,30,WT,female,sugar,2,1
+763,31,WT,female,sugar,2,1
+764,31,WT,female,sugar,2,1
+765,31,WT,female,sugar,2,1
+766,31,WT,female,sugar,2,1
+767,32,WT,female,sugar,2,1
+768,32,WT,female,sugar,2,1
+769,32,WT,female,sugar,2,1
+770,32,WT,female,sugar,2,1
+771,32,WT,female,sugar,2,1
+772,33,WT,female,sugar,2,1
+773,33,WT,female,sugar,2,1
+774,33,WT,female,sugar,2,1
+775,33,WT,female,sugar,2,1
+776,33,WT,female,sugar,2,1
+777,33,WT,female,sugar,2,1
+778,33,WT,female,sugar,2,1
+779,33,WT,female,sugar,2,1
+780,34,WT,female,sugar,2,1
+781,34,WT,female,sugar,2,1
+782,35,WT,female,sugar,2,1
+783,35,WT,female,sugar,2,1
+784,35,WT,female,sugar,2,1
+785,35,WT,female,sugar,2,1
+786,37,WT,female,sugar,2,1
+787,37,WT,female,sugar,2,1
+788,40,WT,female,sugar,2,1
+789,41,WT,female,sugar,2,1
+790,41,WT,female,sugar,2,1
+791,44,WT,female,sugar,2,1
+792,9,MM-CP,male,sugar,3,1
+793,9,MM-CP,male,sugar,3,1
+794,11,MM-CP,male,sugar,3,1
+795,14,MM-CP,male,sugar,3,1
+796,15,MM-CP,male,sugar,3,1
+797,16,MM-CP,male,sugar,3,1
+798,16,MM-CP,male,sugar,3,1
+799,17,MM-CP,male,sugar,3,1
+800,17,MM-CP,male,sugar,3,1
+801,19,MM-CP,male,sugar,3,1
+802,21,MM-CP,male,sugar,3,1
+803,21,MM-CP,male,sugar,3,1
+804,22,MM-CP,male,sugar,3,1
+805,22,MM-CP,male,sugar,3,1
+806,22,MM-CP,male,sugar,3,1
+807,23,MM-CP,male,sugar,3,1
+808,23,MM-CP,male,sugar,3,1
+809,23,MM-CP,male,sugar,3,1
+810,23,MM-CP,male,sugar,3,1
+811,23,MM-CP,male,sugar,3,1
+812,23,MM-CP,male,sugar,3,1
+813,24,MM-CP,male,sugar,3,1
+814,24,MM-CP,male,sugar,3,1
+815,24,MM-CP,male,sugar,3,1
+816,24,MM-CP,male,sugar,3,1
+817,24,MM-CP,male,sugar,3,1
+818,25,MM-CP,male,sugar,3,1
+819,25,MM-CP,male,sugar,3,1
+820,25,MM-CP,male,sugar,3,1
+821,25,MM-CP,male,sugar,3,1
+822,25,MM-CP,male,sugar,3,1
+823,25,MM-CP,male,sugar,3,1
+824,25,MM-CP,male,sugar,3,1
+825,25,MM-CP,male,sugar,3,1
+826,25,MM-CP,male,sugar,3,1
+827,25,MM-CP,male,sugar,3,1
+828,25,MM-CP,male,sugar,3,1
+829,25,MM-CP,male,sugar,3,1
+830,25,MM-CP,male,sugar,3,1
+831,25,MM-CP,male,sugar,3,1
+832,25,MM-CP,male,sugar,3,1
+833,25,MM-CP,male,sugar,3,1
+834,25,MM-CP,male,sugar,3,1
+835,25,MM-CP,male,sugar,3,1
+836,25,MM-CP,male,sugar,3,1
+837,25,MM-CP,male,sugar,3,1
+838,25,MM-CP,male,sugar,3,1
+839,25,MM-CP,male,sugar,3,1
+840,25,MM-CP,male,sugar,3,1
+841,25,MM-CP,male,sugar,3,1
+842,25,MM-CP,male,sugar,3,1
+843,25,MM-CP,male,sugar,3,1
+844,25,MM-CP,male,sugar,3,1
+845,26,MM-CP,male,sugar,3,1
+846,26,MM-CP,male,sugar,3,1
+847,26,MM-CP,male,sugar,3,1
+848,26,MM-CP,male,sugar,3,1
+849,26,MM-CP,male,sugar,3,1
+850,26,MM-CP,male,sugar,3,1
+851,26,MM-CP,male,sugar,3,1
+852,27,MM-CP,male,sugar,3,1
+853,27,MM-CP,male,sugar,3,1
+854,28,MM-CP,male,sugar,3,1
+855,29,MM-CP,male,sugar,3,1
+856,29,MM-CP,male,sugar,3,1
+857,29,MM-CP,male,sugar,3,1
+858,29,MM-CP,male,sugar,3,1
+859,29,MM-CP,male,sugar,3,1
+860,29,MM-CP,male,sugar,3,1
+861,29,MM-CP,male,sugar,3,1
+862,29,MM-CP,male,sugar,3,1
+863,30,MM-CP,male,sugar,3,1
+864,30,MM-CP,male,sugar,3,1
+865,32,MM-CP,male,sugar,3,1
+866,33,MM-CP,male,sugar,3,1
+867,33,MM-CP,male,sugar,3,1
+868,34,MM-CP,male,sugar,3,1
+869,35,MM-CP,male,sugar,3,1
+870,35,MM-CP,male,sugar,3,1
+871,35,MM-CP,male,sugar,3,1
+872,36,MM-CP,male,sugar,3,1
+873,36,MM-CP,male,sugar,3,1
+874,36,MM-CP,male,sugar,3,1
+875,41,MM-CP,male,sugar,3,1
+876,41,MM-CP,male,sugar,3,1
+877,41,MM-CP,male,sugar,3,1
+878,7,MM-CP,female,sugar,3,1
+879,8,MM-CP,female,sugar,3,1
+880,8,MM-CP,female,sugar,3,1
+881,8,MM-CP,female,sugar,3,1
+882,9,MM-CP,female,sugar,3,1
+883,9,MM-CP,female,sugar,3,1
+884,9,MM-CP,female,sugar,3,1
+885,9,MM-CP,female,sugar,3,1
+886,9,MM-CP,female,sugar,3,1
+887,9,MM-CP,female,sugar,3,1
+888,9,MM-CP,female,sugar,3,1
+889,10,MM-CP,female,sugar,3,1
+890,10,MM-CP,female,sugar,3,1
+891,10,MM-CP,female,sugar,3,1
+892,10,MM-CP,female,sugar,3,1
+893,10,MM-CP,female,sugar,3,1
+894,10,MM-CP,female,sugar,3,1
+895,10,MM-CP,female,sugar,3,1
+896,10,MM-CP,female,sugar,3,1
+897,10,MM-CP,female,sugar,3,1
+898,10,MM-CP,female,sugar,3,1
+899,10,MM-CP,female,sugar,3,1
+900,10,MM-CP,female,sugar,3,1
+901,11,MM-CP,female,sugar,3,1
+902,11,MM-CP,female,sugar,3,1
+903,11,MM-CP,female,sugar,3,1
+904,11,MM-CP,female,sugar,3,1
+905,11,MM-CP,female,sugar,3,1
+906,11,MM-CP,female,sugar,3,1
+907,11,MM-CP,female,sugar,3,1
+908,12,MM-CP,female,sugar,3,1
+909,12,MM-CP,female,sugar,3,1
+910,12,MM-CP,female,sugar,3,1
+911,12,MM-CP,female,sugar,3,1
+912,12,MM-CP,female,sugar,3,1
+913,12,MM-CP,female,sugar,3,1
+914,12,MM-CP,female,sugar,3,1
+915,12,MM-CP,female,sugar,3,1
+916,12,MM-CP,female,sugar,3,1
+917,12,MM-CP,female,sugar,3,1
+918,12,MM-CP,female,sugar,3,1
+919,13,MM-CP,female,sugar,3,1
+920,13,MM-CP,female,sugar,3,1
+921,13,MM-CP,female,sugar,3,1
+922,13,MM-CP,female,sugar,3,1
+923,13,MM-CP,female,sugar,3,1
+924,13,MM-CP,female,sugar,3,1
+925,13,MM-CP,female,sugar,3,1
+926,13,MM-CP,female,sugar,3,1
+927,14,MM-CP,female,sugar,3,1
+928,14,MM-CP,female,sugar,3,1
+929,14,MM-CP,female,sugar,3,1
+930,14,MM-CP,female,sugar,3,1
+931,14,MM-CP,female,sugar,3,1
+932,14,MM-CP,female,sugar,3,1
+933,14,MM-CP,female,sugar,3,1
+934,14,MM-CP,female,sugar,3,1
+935,14,MM-CP,female,sugar,3,1
+936,14,MM-CP,female,sugar,3,1
+937,14,MM-CP,female,sugar,3,1
+938,14,MM-CP,female,sugar,3,1
+939,14,MM-CP,female,sugar,3,1
+940,14,MM-CP,female,sugar,3,1
+941,14,MM-CP,female,sugar,3,1
+942,15,MM-CP,female,sugar,3,1
+943,15,MM-CP,female,sugar,3,1
+944,15,MM-CP,female,sugar,3,1
+945,15,MM-CP,female,sugar,3,1
+946,16,MM-CP,female,sugar,3,1
+947,16,MM-CP,female,sugar,3,1
+948,18,MM-CP,female,sugar,3,1
+949,18,MM-CP,female,sugar,3,1
+950,18,MM-CP,female,sugar,3,1
+951,18,MM-CP,female,sugar,3,1
+952,19,MM-CP,female,sugar,3,1
+953,19,MM-CP,female,sugar,3,1
+954,19,MM-CP,female,sugar,3,1
+955,19,MM-CP,female,sugar,3,1
+956,20,MM-CP,female,sugar,3,1
+957,24,MM-CP,female,sugar,3,1
+958,25,MM-CP,female,sugar,3,1
+959,25,MM-CP,female,sugar,3,1
+960,25,MM-CP,female,sugar,3,1
+961,26,MM-CP,female,sugar,3,1
+962,28,MM-CP,female,sugar,3,1
+963,4,WT,male,sugar,3,1
+964,5,WT,male,sugar,3,1
+965,6,WT,male,sugar,3,1
+966,6,WT,male,sugar,3,1
+967,7,WT,male,sugar,3,1
+968,11,WT,male,sugar,3,1
+969,11,WT,male,sugar,3,1
+970,11,WT,male,sugar,3,1
+971,11,WT,male,sugar,3,1
+972,16,WT,male,sugar,3,1
+973,16,WT,male,sugar,3,1
+974,17,WT,male,sugar,3,1
+975,20,WT,male,sugar,3,1
+976,22,WT,male,sugar,3,1
+977,22,WT,male,sugar,3,1
+978,22,WT,male,sugar,3,1
+979,22,WT,male,sugar,3,1
+980,22,WT,male,sugar,3,1
+981,22,WT,male,sugar,3,1
+982,23,WT,male,sugar,3,1
+983,23,WT,male,sugar,3,1
+984,23,WT,male,sugar,3,1
+985,23,WT,male,sugar,3,1
+986,23,WT,male,sugar,3,1
+987,23,WT,male,sugar,3,1
+988,24,WT,male,sugar,3,1
+989,25,WT,male,sugar,3,1
+990,25,WT,male,sugar,3,1
+991,25,WT,male,sugar,3,1
+992,25,WT,male,sugar,3,1
+993,25,WT,male,sugar,3,1
+994,25,WT,male,sugar,3,1
+995,25,WT,male,sugar,3,1
+996,25,WT,male,sugar,3,1
+997,25,WT,male,sugar,3,1
+998,25,WT,male,sugar,3,1
+999,25,WT,male,sugar,3,1
+1000,25,WT,male,sugar,3,1
+1001,25,WT,male,sugar,3,1
+1002,25,WT,male,sugar,3,1
+1003,25,WT,male,sugar,3,1
+1004,25,WT,male,sugar,3,1
+1005,25,WT,male,sugar,3,1
+1006,26,WT,male,sugar,3,1
+1007,26,WT,male,sugar,3,1
+1008,26,WT,male,sugar,3,1
+1009,27,WT,male,sugar,3,1
+1010,27,WT,male,sugar,3,1
+1011,27,WT,male,sugar,3,1
+1012,27,WT,male,sugar,3,1
+1013,27,WT,male,sugar,3,1
+1014,27,WT,male,sugar,3,1
+1015,27,WT,male,sugar,3,1
+1016,27,WT,male,sugar,3,1
+1017,28,WT,male,sugar,3,1
+1018,28,WT,male,sugar,3,1
+1019,28,WT,male,sugar,3,1
+1020,28,WT,male,sugar,3,1
+1021,28,WT,male,sugar,3,1
+1022,29,WT,male,sugar,3,1
+1023,29,WT,male,sugar,3,1
+1024,29,WT,male,sugar,3,1
+1025,29,WT,male,sugar,3,1
+1026,29,WT,male,sugar,3,1
+1027,29,WT,male,sugar,3,1
+1028,30,WT,male,sugar,3,1
+1029,30,WT,male,sugar,3,1
+1030,30,WT,male,sugar,3,1
+1031,31,WT,male,sugar,3,1
+1032,31,WT,male,sugar,3,1
+1033,31,WT,male,sugar,3,1
+1034,31,WT,male,sugar,3,1
+1035,31,WT,male,sugar,3,1
+1036,31,WT,male,sugar,3,1
+1037,32,WT,male,sugar,3,1
+1038,33,WT,male,sugar,3,1
+1039,33,WT,male,sugar,3,1
+1040,33,WT,male,sugar,3,1
+1041,34,WT,male,sugar,3,1
+1042,34,WT,male,sugar,3,1
+1043,35,WT,male,sugar,3,1
+1044,35,WT,male,sugar,3,1
+1045,36,WT,male,sugar,3,1
+1046,37,WT,male,sugar,3,1
+1047,37,WT,male,sugar,3,1
+1048,37,WT,male,sugar,3,1
+1049,3,WT,female,sugar,3,1
+1050,8,WT,female,sugar,3,1
+1051,12,WT,female,sugar,3,1
+1052,14,WT,female,sugar,3,1
+1053,15,WT,female,sugar,3,1
+1054,15,WT,female,sugar,3,1
+1055,15,WT,female,sugar,3,1
+1056,17,WT,female,sugar,3,1
+1057,17,WT,female,sugar,3,1
+1058,17,WT,female,sugar,3,1
+1059,17,WT,female,sugar,3,1
+1060,18,WT,female,sugar,3,1
+1061,18,WT,female,sugar,3,1
+1062,19,WT,female,sugar,3,1
+1063,19,WT,female,sugar,3,1
+1064,20,WT,female,sugar,3,1
+1065,20,WT,female,sugar,3,1
+1066,20,WT,female,sugar,3,1
+1067,20,WT,female,sugar,3,1
+1068,20,WT,female,sugar,3,1
+1069,21,WT,female,sugar,3,1
+1070,21,WT,female,sugar,3,1
+1071,21,WT,female,sugar,3,1
+1072,21,WT,female,sugar,3,1
+1073,22,WT,female,sugar,3,1
+1074,22,WT,female,sugar,3,1
+1075,22,WT,female,sugar,3,1
+1076,22,WT,female,sugar,3,1
+1077,22,WT,female,sugar,3,1
+1078,22,WT,female,sugar,3,1
+1079,23,WT,female,sugar,3,1
+1080,23,WT,female,sugar,3,1
+1081,23,WT,female,sugar,3,1
+1082,23,WT,female,sugar,3,1
+1083,23,WT,female,sugar,3,1
+1084,23,WT,female,sugar,3,1
+1085,24,WT,female,sugar,3,1
+1086,24,WT,female,sugar,3,1
+1087,24,WT,female,sugar,3,1
+1088,24,WT,female,sugar,3,1
+1089,24,WT,female,sugar,3,1
+1090,25,WT,female,sugar,3,1
+1091,25,WT,female,sugar,3,1
+1092,25,WT,female,sugar,3,1
+1093,25,WT,female,sugar,3,1
+1094,25,WT,female,sugar,3,1
+1095,25,WT,female,sugar,3,1
+1096,25,WT,female,sugar,3,1
+1097,25,WT,female,sugar,3,1
+1098,25,WT,female,sugar,3,1
+1099,25,WT,female,sugar,3,1
+1100,25,WT,female,sugar,3,1
+1101,25,WT,female,sugar,3,1
+1102,25,WT,female,sugar,3,1
+1103,25,WT,female,sugar,3,1
+1104,26,WT,female,sugar,3,1
+1105,26,WT,female,sugar,3,1
+1106,26,WT,female,sugar,3,1
+1107,26,WT,female,sugar,3,1
+1108,27,WT,female,sugar,3,1
+1109,27,WT,female,sugar,3,1
+1110,28,WT,female,sugar,3,1
+1111,28,WT,female,sugar,3,1
+1112,28,WT,female,sugar,3,1
+1113,29,WT,female,sugar,3,1
+1114,29,WT,female,sugar,3,1
+1115,29,WT,female,sugar,3,1
+1116,29,WT,female,sugar,3,1
+1117,29,WT,female,sugar,3,1
+1118,29,WT,female,sugar,3,1
+1119,31,WT,female,sugar,3,1
+1120,31,WT,female,sugar,3,1
+1121,31,WT,female,sugar,3,1
+1122,32,WT,female,sugar,3,1
+1123,32,WT,female,sugar,3,1
+1124,33,WT,female,sugar,3,1
+1125,34,WT,female,sugar,3,1
+1126,35,WT,female,sugar,3,1
+1127,35,WT,female,sugar,3,1
+1128,35,WT,female,sugar,3,1
+1129,38,WT,female,sugar,3,1
+1130,11,MM-CP,female,single bloodmeal,1,1
+1131,13,MM-CP,female,single bloodmeal,1,1
+1132,13,MM-CP,female,single bloodmeal,1,1
+1133,14,MM-CP,female,single bloodmeal,1,1
+1134,15,MM-CP,female,single bloodmeal,1,1
+1135,15,MM-CP,female,single bloodmeal,1,1
+1136,16,MM-CP,female,single bloodmeal,1,1
+1137,16,MM-CP,female,single bloodmeal,1,1
+1138,16,MM-CP,female,single bloodmeal,1,1
+1139,17,MM-CP,female,single bloodmeal,1,1
+1140,17,MM-CP,female,single bloodmeal,1,1
+1141,17,MM-CP,female,single bloodmeal,1,1
+1142,17,MM-CP,female,single bloodmeal,1,1
+1143,17,MM-CP,female,single bloodmeal,1,1
+1144,18,MM-CP,female,single bloodmeal,1,1
+1145,18,MM-CP,female,single bloodmeal,1,1
+1146,18,MM-CP,female,single bloodmeal,1,1
+1147,18,MM-CP,female,single bloodmeal,1,1
+1148,18,MM-CP,female,single bloodmeal,1,1
+1149,19,MM-CP,female,single bloodmeal,1,1
+1150,19,MM-CP,female,single bloodmeal,1,1
+1151,19,MM-CP,female,single bloodmeal,1,1
+1152,19,MM-CP,female,single bloodmeal,1,1
+1153,19,MM-CP,female,single bloodmeal,1,1
+1154,19,MM-CP,female,single bloodmeal,1,1
+1155,19,MM-CP,female,single bloodmeal,1,1
+1156,19,MM-CP,female,single bloodmeal,1,1
+1157,19,MM-CP,female,single bloodmeal,1,1
+1158,19,MM-CP,female,single bloodmeal,1,1
+1159,19,MM-CP,female,single bloodmeal,1,1
+1160,20,MM-CP,female,single bloodmeal,1,1
+1161,20,MM-CP,female,single bloodmeal,1,1
+1162,20,MM-CP,female,single bloodmeal,1,1
+1163,20,MM-CP,female,single bloodmeal,1,1
+1164,21,MM-CP,female,single bloodmeal,1,1
+1165,21,MM-CP,female,single bloodmeal,1,1
+1166,21,MM-CP,female,single bloodmeal,1,1
+1167,13,WT,female,single bloodmeal,1,1
+1168,18,WT,female,single bloodmeal,1,1
+1169,25,WT,female,single bloodmeal,1,1
+1170,25,WT,female,single bloodmeal,1,1
+1171,26,WT,female,single bloodmeal,1,1
+1172,27,WT,female,single bloodmeal,1,1
+1173,27,WT,female,single bloodmeal,1,1
+1174,28,WT,female,single bloodmeal,1,1
+1175,29,WT,female,single bloodmeal,1,1
+1176,30,WT,female,single bloodmeal,1,1
+1177,30,WT,female,single bloodmeal,1,1
+1178,31,WT,female,single bloodmeal,1,1
+1179,31,WT,female,single bloodmeal,1,1
+1180,32,WT,female,single bloodmeal,1,1
+1181,32,WT,female,single bloodmeal,1,1
+1182,34,WT,female,single bloodmeal,1,1
+1183,34,WT,female,single bloodmeal,1,1
+1184,34,WT,female,single bloodmeal,1,1
+1185,37,WT,female,single bloodmeal,1,1
+1186,37,WT,female,single bloodmeal,1,1
+1187,38,WT,female,single bloodmeal,1,1
+1188,39,WT,female,single bloodmeal,1,1
+1189,42,WT,female,single bloodmeal,1,1
+1190,46,WT,female,single bloodmeal,1,1
+1191,46,WT,female,single bloodmeal,1,1
+1192,46,WT,female,single bloodmeal,1,1
+1193,14,MM-CP,female,single bloodmeal,2,1
+1194,14,MM-CP,female,single bloodmeal,2,1
+1195,14,MM-CP,female,single bloodmeal,2,1
+1196,15,MM-CP,female,single bloodmeal,2,1
+1197,15,MM-CP,female,single bloodmeal,2,1
+1198,16,MM-CP,female,single bloodmeal,2,1
+1199,16,MM-CP,female,single bloodmeal,2,1
+1200,16,MM-CP,female,single bloodmeal,2,1
+1201,17,MM-CP,female,single bloodmeal,2,1
+1202,17,MM-CP,female,single bloodmeal,2,1
+1203,17,MM-CP,female,single bloodmeal,2,1
+1204,17,MM-CP,female,single bloodmeal,2,1
+1205,17,MM-CP,female,single bloodmeal,2,1
+1206,18,MM-CP,female,single bloodmeal,2,1
+1207,19,MM-CP,female,single bloodmeal,2,1
+1208,19,MM-CP,female,single bloodmeal,2,1
+1209,19,MM-CP,female,single bloodmeal,2,1
+1210,20,MM-CP,female,single bloodmeal,2,1
+1211,22,MM-CP,female,single bloodmeal,2,1
+1212,28,MM-CP,female,single bloodmeal,2,1
+1213,28,MM-CP,female,single bloodmeal,2,1
+1214,29,MM-CP,female,single bloodmeal,2,1
+1215,29,MM-CP,female,single bloodmeal,2,1
+1216,29,MM-CP,female,single bloodmeal,2,1
+1217,30,MM-CP,female,single bloodmeal,2,1
+1218,30,MM-CP,female,single bloodmeal,2,1
+1219,32,MM-CP,female,single bloodmeal,2,1
+1220,34,MM-CP,female,single bloodmeal,2,1
+1221,41,MM-CP,female,single bloodmeal,2,1
+1222,11,WT,female,single bloodmeal,2,1
+1223,22,WT,female,single bloodmeal,2,1
+1224,25,WT,female,single bloodmeal,2,1
+1225,26,WT,female,single bloodmeal,2,1
+1226,26,WT,female,single bloodmeal,2,1
+1227,27,WT,female,single bloodmeal,2,1
+1228,27,WT,female,single bloodmeal,2,1
+1229,28,WT,female,single bloodmeal,2,1
+1230,29,WT,female,single bloodmeal,2,1
+1231,29,WT,female,single bloodmeal,2,1
+1232,29,WT,female,single bloodmeal,2,1
+1233,29,WT,female,single bloodmeal,2,1
+1234,30,WT,female,single bloodmeal,2,1
+1235,30,WT,female,single bloodmeal,2,1
+1236,32,WT,female,single bloodmeal,2,1
+1237,32,WT,female,single bloodmeal,2,1
+1238,36,WT,female,single bloodmeal,2,1
+1239,36,WT,female,single bloodmeal,2,1
+1240,36,WT,female,single bloodmeal,2,1
+1241,37,WT,female,single bloodmeal,2,1
+1242,37,WT,female,single bloodmeal,2,1
+1243,37,WT,female,single bloodmeal,2,1
+1244,38,WT,female,single bloodmeal,2,1
+1245,38,WT,female,single bloodmeal,2,1
+1246,39,WT,female,single bloodmeal,2,1
+1247,39,WT,female,single bloodmeal,2,1
+1248,39,WT,female,single bloodmeal,2,1
+1249,39,WT,female,single bloodmeal,2,1
+1250,39,WT,female,single bloodmeal,2,1
+1251,39,WT,female,single bloodmeal,2,1
+1252,39,WT,female,single bloodmeal,2,1
+1253,40,WT,female,single bloodmeal,2,1
+1254,40,WT,female,single bloodmeal,2,1
+1255,40,WT,female,single bloodmeal,2,1
+1256,41,WT,female,single bloodmeal,2,1
+1257,41,WT,female,single bloodmeal,2,1
+1258,43,WT,female,single bloodmeal,2,1
+1259,43,WT,female,single bloodmeal,2,1
+1260,43,WT,female,single bloodmeal,2,1
+1261,45,WT,female,single bloodmeal,2,1
+1262,48,WT,female,single bloodmeal,2,1
+1263,51,WT,female,single bloodmeal,2,1
+1264,53,WT,female,single bloodmeal,2,1
+1265,53,WT,female,single bloodmeal,2,1
+1266,7,MM-CP,female,single bloodmeal,3,1
+1267,8,MM-CP,female,single bloodmeal,3,1
+1268,14,MM-CP,female,single bloodmeal,3,1
+1269,14,MM-CP,female,single bloodmeal,3,1
+1270,15,MM-CP,female,single bloodmeal,3,1
+1271,15,MM-CP,female,single bloodmeal,3,1
+1272,16,MM-CP,female,single bloodmeal,3,1
+1273,16,MM-CP,female,single bloodmeal,3,1
+1274,16,MM-CP,female,single bloodmeal,3,1
+1275,16,MM-CP,female,single bloodmeal,3,1
+1276,16,MM-CP,female,single bloodmeal,3,1
+1277,16,MM-CP,female,single bloodmeal,3,1
+1278,16,MM-CP,female,single bloodmeal,3,1
+1279,17,MM-CP,female,single bloodmeal,3,1
+1280,17,MM-CP,female,single bloodmeal,3,1
+1281,17,MM-CP,female,single bloodmeal,3,1
+1282,17,MM-CP,female,single bloodmeal,3,1
+1283,18,MM-CP,female,single bloodmeal,3,1
+1284,19,MM-CP,female,single bloodmeal,3,1
+1285,19,MM-CP,female,single bloodmeal,3,1
+1286,19,MM-CP,female,single bloodmeal,3,1
+1287,20,MM-CP,female,single bloodmeal,3,1
+1288,20,MM-CP,female,single bloodmeal,3,1
+1289,20,MM-CP,female,single bloodmeal,3,1
+1290,20,MM-CP,female,single bloodmeal,3,1
+1291,20,MM-CP,female,single bloodmeal,3,1
+1292,20,MM-CP,female,single bloodmeal,3,1
+1293,21,MM-CP,female,single bloodmeal,3,1
+1294,21,MM-CP,female,single bloodmeal,3,1
+1295,21,MM-CP,female,single bloodmeal,3,1
+1296,21,MM-CP,female,single bloodmeal,3,1
+1297,22,MM-CP,female,single bloodmeal,3,1
+1298,22,MM-CP,female,single bloodmeal,3,1
+1299,22,MM-CP,female,single bloodmeal,3,1
+1300,22,MM-CP,female,single bloodmeal,3,1
+1301,22,MM-CP,female,single bloodmeal,3,1
+1302,22,MM-CP,female,single bloodmeal,3,1
+1303,22,MM-CP,female,single bloodmeal,3,1
+1304,22,MM-CP,female,single bloodmeal,3,1
+1305,22,MM-CP,female,single bloodmeal,3,1
+1306,22,MM-CP,female,single bloodmeal,3,1
+1307,23,MM-CP,female,single bloodmeal,3,1
+1308,23,MM-CP,female,single bloodmeal,3,1
+1309,24,MM-CP,female,single bloodmeal,3,1
+1310,24,MM-CP,female,single bloodmeal,3,1
+1311,25,MM-CP,female,single bloodmeal,3,1
+1312,25,MM-CP,female,single bloodmeal,3,1
+1313,26,MM-CP,female,single bloodmeal,3,1
+1314,26,MM-CP,female,single bloodmeal,3,1
+1315,26,MM-CP,female,single bloodmeal,3,1
+1316,28,MM-CP,female,single bloodmeal,3,1
+1317,28,MM-CP,female,single bloodmeal,3,1
+1318,28,MM-CP,female,single bloodmeal,3,1
+1319,28,MM-CP,female,single bloodmeal,3,1
+1320,16,WT,female,single bloodmeal,3,1
+1321,17,WT,female,single bloodmeal,3,1
+1322,19,WT,female,single bloodmeal,3,1
+1323,22,WT,female,single bloodmeal,3,1
+1324,23,WT,female,single bloodmeal,3,1
+1325,25,WT,female,single bloodmeal,3,1
+1326,25,WT,female,single bloodmeal,3,1
+1327,25,WT,female,single bloodmeal,3,1
+1328,26,WT,female,single bloodmeal,3,1
+1329,26,WT,female,single bloodmeal,3,1
+1330,26,WT,female,single bloodmeal,3,1
+1331,27,WT,female,single bloodmeal,3,1
+1332,28,WT,female,single bloodmeal,3,1
+1333,30,WT,female,single bloodmeal,3,1
+1334,30,WT,female,single bloodmeal,3,1
+1335,32,WT,female,single bloodmeal,3,1
+1336,32,WT,female,single bloodmeal,3,1
+1337,32,WT,female,single bloodmeal,3,1
+1338,35,WT,female,single bloodmeal,3,1
+1339,35,WT,female,single bloodmeal,3,1
+1340,35,WT,female,single bloodmeal,3,1
+1341,35,WT,female,single bloodmeal,3,1
+1342,35,WT,female,single bloodmeal,3,1
+1343,36,WT,female,single bloodmeal,3,1
+1344,36,WT,female,single bloodmeal,3,1
+1345,36,WT,female,single bloodmeal,3,1
+1346,38,WT,female,single bloodmeal,3,1
+1347,40,WT,female,single bloodmeal,3,1
+1348,40,WT,female,single bloodmeal,3,1
+1349,40,WT,female,single bloodmeal,3,1
+1350,40,WT,female,single bloodmeal,3,1
+1351,41,WT,female,single bloodmeal,3,1
+1352,42,WT,female,single bloodmeal,3,1
+1353,42,WT,female,single bloodmeal,3,1
+1354,42,WT,female,single bloodmeal,3,1
+1355,45,WT,female,single bloodmeal,3,1
+1356,45,WT,female,single bloodmeal,3,1
+1357,45,WT,female,single bloodmeal,3,1
+1358,47,WT,female,single bloodmeal,3,1
+1359,47,WT,female,single bloodmeal,3,1
+1360,50,WT,female,single bloodmeal,3,1
+1361,51,WT,female,single bloodmeal,3,1
+1362,52,WT,female,single bloodmeal,3,1
+1363,52,WT,female,single bloodmeal,3,1
+1364,52,WT,female,single bloodmeal,3,1
+1365,53,WT,female,single bloodmeal,3,1
+1366,7,MM-CP,female,single bloodmeal,4,1
+1367,12,MM-CP,female,single bloodmeal,4,1
+1368,14,MM-CP,female,single bloodmeal,4,1
+1369,15,MM-CP,female,single bloodmeal,4,1
+1370,15,MM-CP,female,single bloodmeal,4,1
+1371,16,MM-CP,female,single bloodmeal,4,1
+1372,16,MM-CP,female,single bloodmeal,4,1
+1373,16,MM-CP,female,single bloodmeal,4,1
+1374,17,MM-CP,female,single bloodmeal,4,1
+1375,18,MM-CP,female,single bloodmeal,4,1
+1376,19,MM-CP,female,single bloodmeal,4,1
+1377,19,MM-CP,female,single bloodmeal,4,1
+1378,19,MM-CP,female,single bloodmeal,4,1
+1379,20,MM-CP,female,single bloodmeal,4,1
+1380,20,MM-CP,female,single bloodmeal,4,1
+1381,20,MM-CP,female,single bloodmeal,4,1
+1382,20,MM-CP,female,single bloodmeal,4,1
+1383,20,MM-CP,female,single bloodmeal,4,1
+1384,21,MM-CP,female,single bloodmeal,4,1
+1385,21,MM-CP,female,single bloodmeal,4,1
+1386,21,MM-CP,female,single bloodmeal,4,1
+1387,22,MM-CP,female,single bloodmeal,4,1
+1388,22,MM-CP,female,single bloodmeal,4,1
+1389,22,MM-CP,female,single bloodmeal,4,1
+1390,22,MM-CP,female,single bloodmeal,4,1
+1391,22,MM-CP,female,single bloodmeal,4,1
+1392,25,MM-CP,female,single bloodmeal,4,1
+1393,25,MM-CP,female,single bloodmeal,4,1
+1394,25,MM-CP,female,single bloodmeal,4,1
+1395,25,MM-CP,female,single bloodmeal,4,1
+1396,25,MM-CP,female,single bloodmeal,4,1
+1397,25,MM-CP,female,single bloodmeal,4,1
+1398,25,MM-CP,female,single bloodmeal,4,1
+1399,25,MM-CP,female,single bloodmeal,4,1
+1400,25,MM-CP,female,single bloodmeal,4,1
+1401,26,MM-CP,female,single bloodmeal,4,1
+1402,26,MM-CP,female,single bloodmeal,4,1
+1403,26,MM-CP,female,single bloodmeal,4,1
+1404,27,MM-CP,female,single bloodmeal,4,1
+1405,28,MM-CP,female,single bloodmeal,4,1
+1406,29,MM-CP,female,single bloodmeal,4,1
+1407,30,MM-CP,female,single bloodmeal,4,1
+1408,30,MM-CP,female,single bloodmeal,4,1
+1409,31,MM-CP,female,single bloodmeal,4,1
+1410,34,MM-CP,female,single bloodmeal,4,1
+1411,35,MM-CP,female,single bloodmeal,4,1
+1412,35,MM-CP,female,single bloodmeal,4,1
+1413,36,MM-CP,female,single bloodmeal,4,1
+1414,38,MM-CP,female,single bloodmeal,4,1
+1415,40,MM-CP,female,single bloodmeal,4,1
+1416,41,MM-CP,female,single bloodmeal,4,1
+1417,6,WT,female,single bloodmeal,4,1
+1418,6,WT,female,single bloodmeal,4,1
+1419,6,WT,female,single bloodmeal,4,1
+1420,7,WT,female,single bloodmeal,4,1
+1421,7,WT,female,single bloodmeal,4,1
+1422,7,WT,female,single bloodmeal,4,1
+1423,7,WT,female,single bloodmeal,4,1
+1424,8,WT,female,single bloodmeal,4,1
+1425,17,WT,female,single bloodmeal,4,1
+1426,19,WT,female,single bloodmeal,4,1
+1427,20,WT,female,single bloodmeal,4,1
+1428,20,WT,female,single bloodmeal,4,1
+1429,21,WT,female,single bloodmeal,4,1
+1430,32,WT,female,single bloodmeal,4,1
+1431,33,WT,female,single bloodmeal,4,1
+1432,35,WT,female,single bloodmeal,4,1
+1433,37,WT,female,single bloodmeal,4,1
+1434,40,WT,female,single bloodmeal,4,1
+1435,42,WT,female,single bloodmeal,4,1
+1436,42,WT,female,single bloodmeal,4,1
+1437,42,WT,female,single bloodmeal,4,1
+1438,42,WT,female,single bloodmeal,4,1
+1439,42,WT,female,single bloodmeal,4,1
+1440,43,WT,female,single bloodmeal,4,1
+1441,45,WT,female,single bloodmeal,4,1
+1442,45,WT,female,single bloodmeal,4,1
+1443,46,WT,female,single bloodmeal,4,1
+1444,46,WT,female,single bloodmeal,4,1
+1445,48,WT,female,single bloodmeal,4,1
+1446,48,WT,female,single bloodmeal,4,1
+1447,49,WT,female,single bloodmeal,4,1
+1448,51,WT,female,single bloodmeal,4,1
+1449,51,WT,female,single bloodmeal,4,1
+1450,53,WT,female,single bloodmeal,4,1
+1451,55,WT,female,single bloodmeal,4,1
+1452,55,WT,female,single bloodmeal,4,1
+1453,57,WT,female,single bloodmeal,4,1
+1454,61,WT,female,single bloodmeal,4,1
+1455,61,WT,female,single bloodmeal,4,1

@@ -4,18 +4,12 @@ library(Hmisc)
 library(plyr)
 library(dplyr)
 library(Hmisc)
-#install.packages("extrafont")
 library("extrafont")
-#font_import()
-#library(remotes)
-#remotes::install_version("Rttf2pt1", version = "1.3.8")
-#extrafont::font_import()
+
 loadfonts()
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 getwd()
-
-
 
 # ---------- data input ----------
 

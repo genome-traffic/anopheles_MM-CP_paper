@@ -1,0 +1,841 @@
+ontology,GO,description,hours,gene
+MF,GO:0046914,transition metal ion binding,6,AGAP000092
+MF,GO:0046914,transition metal ion binding,6,AGAP000314
+MF,GO:0046914,transition metal ion binding,6,AGAP001065
+MF,GO:0046914,transition metal ion binding,6,AGAP001076
+MF,GO:0046914,transition metal ion binding,6,AGAP001296
+MF,GO:0046914,transition metal ion binding,6,AGAP001864
+MF,GO:0046914,transition metal ion binding,6,AGAP001881
+MF,GO:0046914,transition metal ion binding,6,AGAP002339
+MF,GO:0046914,transition metal ion binding,6,AGAP002375
+MF,GO:0046914,transition metal ion binding,6,AGAP002418
+MF,GO:0046914,transition metal ion binding,6,AGAP002465
+MF,GO:0046914,transition metal ion binding,6,AGAP002741
+MF,GO:0046914,transition metal ion binding,6,AGAP002933
+MF,GO:0046914,transition metal ion binding,6,AGAP003066
+MF,GO:0046914,transition metal ion binding,6,AGAP003209
+MF,GO:0046914,transition metal ion binding,6,AGAP003230
+MF,GO:0046914,transition metal ion binding,6,AGAP003289
+MF,GO:0046914,transition metal ion binding,6,AGAP003343
+MF,GO:0046914,transition metal ion binding,6,AGAP003475
+MF,GO:0046914,transition metal ion binding,6,AGAP003522
+MF,GO:0046914,transition metal ion binding,6,AGAP003597
+MF,GO:0046914,transition metal ion binding,6,AGAP003636
+MF,GO:0046914,transition metal ion binding,6,AGAP003695
+MF,GO:0046914,transition metal ion binding,6,AGAP003698
+MF,GO:0046914,transition metal ion binding,6,AGAP003869
+MF,GO:0046914,transition metal ion binding,6,AGAP003926
+MF,GO:0046914,transition metal ion binding,6,AGAP004224
+MF,GO:0046914,transition metal ion binding,6,AGAP004417
+MF,GO:0046914,transition metal ion binding,6,AGAP004775
+MF,GO:0046914,transition metal ion binding,6,AGAP004809
+MF,GO:0046914,transition metal ion binding,6,AGAP004895
+MF,GO:0046914,transition metal ion binding,6,AGAP005153
+MF,GO:0046914,transition metal ion binding,6,AGAP005205
+MF,GO:0046914,transition metal ion binding,6,AGAP005234
+MF,GO:0046914,transition metal ion binding,6,AGAP005484
+MF,GO:0046914,transition metal ion binding,6,AGAP005618
+MF,GO:0046914,transition metal ion binding,6,AGAP005656
+MF,GO:0046914,transition metal ion binding,6,AGAP005917
+MF,GO:0046914,transition metal ion binding,6,AGAP006048
+MF,GO:0046914,transition metal ion binding,6,AGAP006144
+MF,GO:0046914,transition metal ion binding,6,AGAP006207
+MF,GO:0046914,transition metal ion binding,6,AGAP006224
+MF,GO:0046914,transition metal ion binding,6,AGAP006226
+MF,GO:0046914,transition metal ion binding,6,AGAP006360
+MF,GO:0046914,transition metal ion binding,6,AGAP006571
+MF,GO:0046914,transition metal ion binding,6,AGAP006797
+MF,GO:0046914,transition metal ion binding,6,AGAP006997
+MF,GO:0046914,transition metal ion binding,6,AGAP007026
+MF,GO:0046914,transition metal ion binding,6,AGAP007174
+MF,GO:0046914,transition metal ion binding,6,AGAP007180
+MF,GO:0046914,transition metal ion binding,6,AGAP007279
+MF,GO:0046914,transition metal ion binding,6,AGAP007530
+MF,GO:0046914,transition metal ion binding,6,AGAP007918
+MF,GO:0046914,transition metal ion binding,6,AGAP008158
+MF,GO:0046914,transition metal ion binding,6,AGAP008204
+MF,GO:0046914,transition metal ion binding,6,AGAP008209
+MF,GO:0046914,transition metal ion binding,6,AGAP008218
+MF,GO:0046914,transition metal ion binding,6,AGAP008393
+MF,GO:0046914,transition metal ion binding,6,AGAP008430
+MF,GO:0046914,transition metal ion binding,6,AGAP008774
+MF,GO:0046914,transition metal ion binding,6,AGAP008851
+MF,GO:0046914,transition metal ion binding,6,AGAP009177
+MF,GO:0046914,transition metal ion binding,6,AGAP009240
+MF,GO:0046914,transition metal ion binding,6,AGAP009374
+MF,GO:0046914,transition metal ion binding,6,AGAP009511
+MF,GO:0046914,transition metal ion binding,6,AGAP009512
+MF,GO:0046914,transition metal ion binding,6,AGAP010028
+MF,GO:0046914,transition metal ion binding,6,AGAP010764
+MF,GO:0046914,transition metal ion binding,6,AGAP010877
+MF,GO:0046914,transition metal ion binding,6,AGAP010981
+MF,GO:0046914,transition metal ion binding,6,AGAP010982
+MF,GO:0046914,transition metal ion binding,6,AGAP011282
+MF,GO:0046914,transition metal ion binding,6,AGAP011414
+MF,GO:0046914,transition metal ion binding,6,AGAP011448
+MF,GO:0046914,transition metal ion binding,6,AGAP011613
+MF,GO:0046914,transition metal ion binding,6,AGAP011871
+MF,GO:0046914,transition metal ion binding,6,AGAP012119
+MF,GO:0046914,transition metal ion binding,6,AGAP012292
+MF,GO:0046914,transition metal ion binding,6,AGAP012296
+MF,GO:0046914,transition metal ion binding,6,AGAP012745
+MF,GO:0046914,transition metal ion binding,6,AGAP012800
+MF,GO:0046914,transition metal ion binding,6,AGAP012984
+MF,GO:0046914,transition metal ion binding,6,AGAP013128
+MF,GO:0046914,transition metal ion binding,6,AGAP013155
+MF,GO:0046914,transition metal ion binding,6,AGAP013188
+MF,GO:0046914,transition metal ion binding,6,AGAP013255
+MF,GO:0046914,transition metal ion binding,6,AGAP013305
+MF,GO:0046914,transition metal ion binding,6,AGAP013393
+MF,GO:0046914,transition metal ion binding,6,AGAP013511
+MF,GO:0046914,transition metal ion binding,6,AGAP013758
+MF,GO:0046914,transition metal ion binding,6,AGAP028040
+MF,GO:0046914,transition metal ion binding,6,AGAP028511
+MF,GO:0046914,transition metal ion binding,6,AGAP029263
+MF,GO:0046914,transition metal ion binding,6,AGAP029680
+MF,GO:0046914,transition metal ion binding,6,AGAP029691
+MF,GO:0046872,metal ion binding,6,AGAP000092
+MF,GO:0046872,metal ion binding,6,AGAP000179
+MF,GO:0046872,metal ion binding,6,AGAP000314
+MF,GO:0046872,metal ion binding,6,AGAP000476
+MF,GO:0046872,metal ion binding,6,AGAP000577
+MF,GO:0046872,metal ion binding,6,AGAP000634
+MF,GO:0046872,metal ion binding,6,AGAP000935
+MF,GO:0046872,metal ion binding,6,AGAP001037
+MF,GO:0046872,metal ion binding,6,AGAP001065
+MF,GO:0046872,metal ion binding,6,AGAP001076
+MF,GO:0046872,metal ion binding,6,AGAP001209
+MF,GO:0046872,metal ion binding,6,AGAP001272
+MF,GO:0046872,metal ion binding,6,AGAP001296
+MF,GO:0046872,metal ion binding,6,AGAP001421
+MF,GO:0046872,metal ion binding,6,AGAP001435
+MF,GO:0046872,metal ion binding,6,AGAP001480
+MF,GO:0046872,metal ion binding,6,AGAP001645
+MF,GO:0046872,metal ion binding,6,AGAP001864
+MF,GO:0046872,metal ion binding,6,AGAP001877
+MF,GO:0046872,metal ion binding,6,AGAP001881
+MF,GO:0046872,metal ion binding,6,AGAP002016
+MF,GO:0046872,metal ion binding,6,AGAP002036
+MF,GO:0046872,metal ion binding,6,AGAP002129
+MF,GO:0046872,metal ion binding,6,AGAP002339
+MF,GO:0046872,metal ion binding,6,AGAP002375
+MF,GO:0046872,metal ion binding,6,AGAP002379
+MF,GO:0046872,metal ion binding,6,AGAP002418
+MF,GO:0046872,metal ion binding,6,AGAP002465
+MF,GO:0046872,metal ion binding,6,AGAP002475
+MF,GO:0046872,metal ion binding,6,AGAP002578
+MF,GO:0046872,metal ion binding,6,AGAP002741
+MF,GO:0046872,metal ion binding,6,AGAP002800
+MF,GO:0046872,metal ion binding,6,AGAP002801
+MF,GO:0046872,metal ion binding,6,AGAP002858
+MF,GO:0046872,metal ion binding,6,AGAP002883
+MF,GO:0046872,metal ion binding,6,AGAP002929
+MF,GO:0046872,metal ion binding,6,AGAP002933
+MF,GO:0046872,metal ion binding,6,AGAP002956
+MF,GO:0046872,metal ion binding,6,AGAP003040
+MF,GO:0046872,metal ion binding,6,AGAP003066
+MF,GO:0046872,metal ion binding,6,AGAP003137
+MF,GO:0046872,metal ion binding,6,AGAP003209
+MF,GO:0046872,metal ion binding,6,AGAP003230
+MF,GO:0046872,metal ion binding,6,AGAP003289
+MF,GO:0046872,metal ion binding,6,AGAP003302
+MF,GO:0046872,metal ion binding,6,AGAP003324
+MF,GO:0046872,metal ion binding,6,AGAP003343
+MF,GO:0046872,metal ion binding,6,AGAP003372
+MF,GO:0046872,metal ion binding,6,AGAP003429
+MF,GO:0046872,metal ion binding,6,AGAP003475
+MF,GO:0046872,metal ion binding,6,AGAP003517
+MF,GO:0046872,metal ion binding,6,AGAP003522
+MF,GO:0046872,metal ion binding,6,AGAP003579
+MF,GO:0046872,metal ion binding,6,AGAP003597
+MF,GO:0046872,metal ion binding,6,AGAP003636
+MF,GO:0046872,metal ion binding,6,AGAP003695
+MF,GO:0046872,metal ion binding,6,AGAP003698
+MF,GO:0046872,metal ion binding,6,AGAP003869
+MF,GO:0046872,metal ion binding,6,AGAP003926
+MF,GO:0046872,metal ion binding,6,AGAP004050
+MF,GO:0046872,metal ion binding,6,AGAP004154
+MF,GO:0046872,metal ion binding,6,AGAP004158
+MF,GO:0046872,metal ion binding,6,AGAP004212
+MF,GO:0046872,metal ion binding,6,AGAP004224
+MF,GO:0046872,metal ion binding,6,AGAP004417
+MF,GO:0046872,metal ion binding,6,AGAP004563
+MF,GO:0046872,metal ion binding,6,AGAP004573
+MF,GO:0046872,metal ion binding,6,AGAP004742
+MF,GO:0046872,metal ion binding,6,AGAP004775
+MF,GO:0046872,metal ion binding,6,AGAP004809
+MF,GO:0046872,metal ion binding,6,AGAP004895
+MF,GO:0046872,metal ion binding,6,AGAP005058
+MF,GO:0046872,metal ion binding,6,AGAP005093
+MF,GO:0046872,metal ion binding,6,AGAP005133
+MF,GO:0046872,metal ion binding,6,AGAP005153
+MF,GO:0046872,metal ion binding,6,AGAP005175
+MF,GO:0046872,metal ion binding,6,AGAP005205
+MF,GO:0046872,metal ion binding,6,AGAP005234
+MF,GO:0046872,metal ion binding,6,AGAP005369
+MF,GO:0046872,metal ion binding,6,AGAP005378
+MF,GO:0046872,metal ion binding,6,AGAP005400
+MF,GO:0046872,metal ion binding,6,AGAP005425
+MF,GO:0046872,metal ion binding,6,AGAP005484
+MF,GO:0046872,metal ion binding,6,AGAP005558
+MF,GO:0046872,metal ion binding,6,AGAP005583
+MF,GO:0046872,metal ion binding,6,AGAP005609
+MF,GO:0046872,metal ion binding,6,AGAP005618
+MF,GO:0046872,metal ion binding,6,AGAP005656
+MF,GO:0046872,metal ion binding,6,AGAP005860
+MF,GO:0046872,metal ion binding,6,AGAP005917
+MF,GO:0046872,metal ion binding,6,AGAP006048
+MF,GO:0046872,metal ion binding,6,AGAP006144
+MF,GO:0046872,metal ion binding,6,AGAP006207
+MF,GO:0046872,metal ion binding,6,AGAP006224
+MF,GO:0046872,metal ion binding,6,AGAP006226
+MF,GO:0046872,metal ion binding,6,AGAP006360
+MF,GO:0046872,metal ion binding,6,AGAP006508
+MF,GO:0046872,metal ion binding,6,AGAP006570
+MF,GO:0046872,metal ion binding,6,AGAP006571
+MF,GO:0046872,metal ion binding,6,AGAP006797
+MF,GO:0046872,metal ion binding,6,AGAP006997
+MF,GO:0046872,metal ion binding,6,AGAP007026
+MF,GO:0046872,metal ion binding,6,AGAP007068
+MF,GO:0046872,metal ion binding,6,AGAP007103
+MF,GO:0046872,metal ion binding,6,AGAP007114
+MF,GO:0046872,metal ion binding,6,AGAP007157
+MF,GO:0046872,metal ion binding,6,AGAP007161
+MF,GO:0046872,metal ion binding,6,AGAP007162
+MF,GO:0046872,metal ion binding,6,AGAP007167
+MF,GO:0046872,metal ion binding,6,AGAP007174
+MF,GO:0046872,metal ion binding,6,AGAP007180
+MF,GO:0046872,metal ion binding,6,AGAP007279
+MF,GO:0046872,metal ion binding,6,AGAP007530
+MF,GO:0046872,metal ion binding,6,AGAP007642
+MF,GO:0046872,metal ion binding,6,AGAP007918
+MF,GO:0046872,metal ion binding,6,AGAP007968
+MF,GO:0046872,metal ion binding,6,AGAP008088
+MF,GO:0046872,metal ion binding,6,AGAP008147
+MF,GO:0046872,metal ion binding,6,AGAP008158
+MF,GO:0046872,metal ion binding,6,AGAP008204
+MF,GO:0046872,metal ion binding,6,AGAP008209
+MF,GO:0046872,metal ion binding,6,AGAP008218
+MF,GO:0046872,metal ion binding,6,AGAP008345
+MF,GO:0046872,metal ion binding,6,AGAP008363
+MF,GO:0046872,metal ion binding,6,AGAP008393
+MF,GO:0046872,metal ion binding,6,AGAP008430
+MF,GO:0046872,metal ion binding,6,AGAP008532
+MF,GO:0046872,metal ion binding,6,AGAP008536
+MF,GO:0046872,metal ion binding,6,AGAP008634
+MF,GO:0046872,metal ion binding,6,AGAP008637
+MF,GO:0046872,metal ion binding,6,AGAP008774
+MF,GO:0046872,metal ion binding,6,AGAP008806
+MF,GO:0046872,metal ion binding,6,AGAP008851
+MF,GO:0046872,metal ion binding,6,AGAP008887
+MF,GO:0046872,metal ion binding,6,AGAP008932
+MF,GO:0046872,metal ion binding,6,AGAP009023
+MF,GO:0046872,metal ion binding,6,AGAP009088
+MF,GO:0046872,metal ion binding,6,AGAP009100
+MF,GO:0046872,metal ion binding,6,AGAP009171
+MF,GO:0046872,metal ion binding,6,AGAP009177
+MF,GO:0046872,metal ion binding,6,AGAP009240
+MF,GO:0046872,metal ion binding,6,AGAP009374
+MF,GO:0046872,metal ion binding,6,AGAP009511
+MF,GO:0046872,metal ion binding,6,AGAP009512
+MF,GO:0046872,metal ion binding,6,AGAP009528
+MF,GO:0046872,metal ion binding,6,AGAP009567
+MF,GO:0046872,metal ion binding,6,AGAP009827
+MF,GO:0046872,metal ion binding,6,AGAP010028
+MF,GO:0046872,metal ion binding,6,AGAP010219
+MF,GO:0046872,metal ion binding,6,AGAP010436
+MF,GO:0046872,metal ion binding,6,AGAP010681
+MF,GO:0046872,metal ion binding,6,AGAP010764
+MF,GO:0046872,metal ion binding,6,AGAP010767
+MF,GO:0046872,metal ion binding,6,AGAP010877
+MF,GO:0046872,metal ion binding,6,AGAP010891
+MF,GO:0046872,metal ion binding,6,AGAP010957
+MF,GO:0046872,metal ion binding,6,AGAP010981
+MF,GO:0046872,metal ion binding,6,AGAP010982
+MF,GO:0046872,metal ion binding,6,AGAP011047
+MF,GO:0046872,metal ion binding,6,AGAP011062
+MF,GO:0046872,metal ion binding,6,AGAP011108
+MF,GO:0046872,metal ion binding,6,AGAP011282
+MF,GO:0046872,metal ion binding,6,AGAP011414
+MF,GO:0046872,metal ion binding,6,AGAP011448
+MF,GO:0046872,metal ion binding,6,AGAP011613
+MF,GO:0046872,metal ion binding,6,AGAP011638
+MF,GO:0046872,metal ion binding,6,AGAP011653
+MF,GO:0046872,metal ion binding,6,AGAP011654
+MF,GO:0046872,metal ion binding,6,AGAP011657
+MF,GO:0046872,metal ion binding,6,AGAP011696
+MF,GO:0046872,metal ion binding,6,AGAP011871
+MF,GO:0046872,metal ion binding,6,AGAP011875
+MF,GO:0046872,metal ion binding,6,AGAP012071
+MF,GO:0046872,metal ion binding,6,AGAP012072
+MF,GO:0046872,metal ion binding,6,AGAP012119
+MF,GO:0046872,metal ion binding,6,AGAP012247
+MF,GO:0046872,metal ion binding,6,AGAP012292
+MF,GO:0046872,metal ion binding,6,AGAP012296
+MF,GO:0046872,metal ion binding,6,AGAP012372
+MF,GO:0046872,metal ion binding,6,AGAP012744
+MF,GO:0046872,metal ion binding,6,AGAP012745
+MF,GO:0046872,metal ion binding,6,AGAP012800
+MF,GO:0046872,metal ion binding,6,AGAP012984
+MF,GO:0046872,metal ion binding,6,AGAP013128
+MF,GO:0046872,metal ion binding,6,AGAP013155
+MF,GO:0046872,metal ion binding,6,AGAP013188
+MF,GO:0046872,metal ion binding,6,AGAP013255
+MF,GO:0046872,metal ion binding,6,AGAP013277
+MF,GO:0046872,metal ion binding,6,AGAP013305
+MF,GO:0046872,metal ion binding,6,AGAP013393
+MF,GO:0046872,metal ion binding,6,AGAP013511
+MF,GO:0046872,metal ion binding,6,AGAP013758
+MF,GO:0046872,metal ion binding,6,AGAP028040
+MF,GO:0046872,metal ion binding,6,AGAP028511
+MF,GO:0046872,metal ion binding,6,AGAP029263
+MF,GO:0046872,metal ion binding,6,AGAP029492
+MF,GO:0046872,metal ion binding,6,AGAP029538
+MF,GO:0046872,metal ion binding,6,AGAP029680
+MF,GO:0046872,metal ion binding,6,AGAP029691
+MF,GO:0046872,metal ion binding,6,AGAP029694
+MF,GO:0046872,metal ion binding,6,AGAP029695
+MF,GO:0008094,DNA-dependent ATPase activity,6,AGAP001290
+MF,GO:0008094,DNA-dependent ATPase activity,6,AGAP001901
+MF,GO:0008094,DNA-dependent ATPase activity,6,AGAP003093
+MF,GO:0008094,DNA-dependent ATPase activity,6,AGAP004408
+MF,GO:0008094,DNA-dependent ATPase activity,6,AGAP005144
+MF,GO:0008094,DNA-dependent ATPase activity,6,AGAP005800
+MF,GO:0008094,DNA-dependent ATPase activity,6,AGAP006945
+MF,GO:0008094,DNA-dependent ATPase activity,6,AGAP008426
+MF,GO:0008094,DNA-dependent ATPase activity,6,AGAP010219
+MF,GO:0008094,DNA-dependent ATPase activity,6,AGAP013412
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP000260
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP000523
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP000851
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP001138
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP001478
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP001557
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP001628
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP002109
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP002324
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP002578
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP003325
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP003599
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP003684
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP004115
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP004400
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP004616
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP004636
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP004906
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP005134
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP006330
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP006879
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP007054
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP007621
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP007667
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP007710
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP007768
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP007841
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP007966
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP008727
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP009005
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP009491
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP009616
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP009833
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP010344
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP010481
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP010580
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP010865
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP010937
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP010975
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP011131
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP011159
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP011388
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP011499
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP012081
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP012106
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP012565
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP012818
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP028364
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP028366
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP028371
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP029205
+MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,20,AGAP029806
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP000260
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP000523
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP000851
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP001138
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP001478
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP001557
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP001628
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP002109
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP002324
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP002578
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP003325
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP003599
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP003684
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP004115
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP004400
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP004519
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP004616
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP004636
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP004906
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP005134
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP006330
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP006638
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP006879
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP007054
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP007119
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP007621
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP007667
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP007710
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP007768
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP007841
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP007966
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP008711
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP008727
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP009005
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP009333
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP009491
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP009616
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP009833
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP010344
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP010481
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP010580
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP010865
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP010937
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP010975
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP011131
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP011159
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP011388
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP011493
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP011499
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP012081
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP012106
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP012565
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP012735
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP012818
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP028364
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP028366
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP028371
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP029205
+MF,GO:0015075,ion transmembrane transporter activity,20,AGAP029806
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP000170
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP000260
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP000523
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP000618
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP000849
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP000851
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP001138
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP001711
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP002020
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP002170
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP002245
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP002630
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP002788
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP002889
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP003199
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP003231
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP003325
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP003900
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP004616
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP004710
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP004788
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP005621
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP006330
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP006456
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP006879
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP006936
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP007297
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP007380
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP007780
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP007841
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP007966
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP008572
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP008653
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP008727
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP008955
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP009072
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP009491
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP009602
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP009652
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP009865
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP010337
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP011131
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP011159
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP011829
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP012081
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP012106
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP012145
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP012188
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP012374
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP012533
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP012705
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP012770
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP013336
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP028364
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP028383
+CC,GO:0098800,inner mitochondrial membrane protein complex,20,AGAP028387
+CC,GO:0031966,mitochondrial membrane,20,AGAP000118
+CC,GO:0031966,mitochondrial membrane,20,AGAP000170
+CC,GO:0031966,mitochondrial membrane,20,AGAP000260
+CC,GO:0031966,mitochondrial membrane,20,AGAP000291
+CC,GO:0031966,mitochondrial membrane,20,AGAP000523
+CC,GO:0031966,mitochondrial membrane,20,AGAP000618
+CC,GO:0031966,mitochondrial membrane,20,AGAP000849
+CC,GO:0031966,mitochondrial membrane,20,AGAP000851
+CC,GO:0031966,mitochondrial membrane,20,AGAP000935
+CC,GO:0031966,mitochondrial membrane,20,AGAP001138
+CC,GO:0031966,mitochondrial membrane,20,AGAP001711
+CC,GO:0031966,mitochondrial membrane,20,AGAP002020
+CC,GO:0031966,mitochondrial membrane,20,AGAP002170
+CC,GO:0031966,mitochondrial membrane,20,AGAP002245
+CC,GO:0031966,mitochondrial membrane,20,AGAP002630
+CC,GO:0031966,mitochondrial membrane,20,AGAP002788
+CC,GO:0031966,mitochondrial membrane,20,AGAP002889
+CC,GO:0031966,mitochondrial membrane,20,AGAP002906
+CC,GO:0031966,mitochondrial membrane,20,AGAP003199
+CC,GO:0031966,mitochondrial membrane,20,AGAP003231
+CC,GO:0031966,mitochondrial membrane,20,AGAP003325
+CC,GO:0031966,mitochondrial membrane,20,AGAP003900
+CC,GO:0031966,mitochondrial membrane,20,AGAP004519
+CC,GO:0031966,mitochondrial membrane,20,AGAP004616
+CC,GO:0031966,mitochondrial membrane,20,AGAP004710
+CC,GO:0031966,mitochondrial membrane,20,AGAP004788
+CC,GO:0031966,mitochondrial membrane,20,AGAP004906
+CC,GO:0031966,mitochondrial membrane,20,AGAP005421
+CC,GO:0031966,mitochondrial membrane,20,AGAP005621
+CC,GO:0031966,mitochondrial membrane,20,AGAP006330
+CC,GO:0031966,mitochondrial membrane,20,AGAP006456
+CC,GO:0031966,mitochondrial membrane,20,AGAP006879
+CC,GO:0031966,mitochondrial membrane,20,AGAP006936
+CC,GO:0031966,mitochondrial membrane,20,AGAP006949
+CC,GO:0031966,mitochondrial membrane,20,AGAP007119
+CC,GO:0031966,mitochondrial membrane,20,AGAP007297
+CC,GO:0031966,mitochondrial membrane,20,AGAP007380
+CC,GO:0031966,mitochondrial membrane,20,AGAP007780
+CC,GO:0031966,mitochondrial membrane,20,AGAP007841
+CC,GO:0031966,mitochondrial membrane,20,AGAP007966
+CC,GO:0031966,mitochondrial membrane,20,AGAP008572
+CC,GO:0031966,mitochondrial membrane,20,AGAP008653
+CC,GO:0031966,mitochondrial membrane,20,AGAP008727
+CC,GO:0031966,mitochondrial membrane,20,AGAP008774
+CC,GO:0031966,mitochondrial membrane,20,AGAP008955
+CC,GO:0031966,mitochondrial membrane,20,AGAP009072
+CC,GO:0031966,mitochondrial membrane,20,AGAP009323
+CC,GO:0031966,mitochondrial membrane,20,AGAP009333
+CC,GO:0031966,mitochondrial membrane,20,AGAP009491
+CC,GO:0031966,mitochondrial membrane,20,AGAP009602
+CC,GO:0031966,mitochondrial membrane,20,AGAP009652
+CC,GO:0031966,mitochondrial membrane,20,AGAP009833
+CC,GO:0031966,mitochondrial membrane,20,AGAP009852
+CC,GO:0031966,mitochondrial membrane,20,AGAP009865
+CC,GO:0031966,mitochondrial membrane,20,AGAP010227
+CC,GO:0031966,mitochondrial membrane,20,AGAP010337
+CC,GO:0031966,mitochondrial membrane,20,AGAP010573
+CC,GO:0031966,mitochondrial membrane,20,AGAP010691
+CC,GO:0031966,mitochondrial membrane,20,AGAP011131
+CC,GO:0031966,mitochondrial membrane,20,AGAP011159
+CC,GO:0031966,mitochondrial membrane,20,AGAP011445
+CC,GO:0031966,mitochondrial membrane,20,AGAP011696
+CC,GO:0031966,mitochondrial membrane,20,AGAP011829
+CC,GO:0031966,mitochondrial membrane,20,AGAP012081
+CC,GO:0031966,mitochondrial membrane,20,AGAP012106
+CC,GO:0031966,mitochondrial membrane,20,AGAP012145
+CC,GO:0031966,mitochondrial membrane,20,AGAP012188
+CC,GO:0031966,mitochondrial membrane,20,AGAP012374
+CC,GO:0031966,mitochondrial membrane,20,AGAP012533
+CC,GO:0031966,mitochondrial membrane,20,AGAP012705
+CC,GO:0031966,mitochondrial membrane,20,AGAP012770
+CC,GO:0031966,mitochondrial membrane,20,AGAP013336
+CC,GO:0031966,mitochondrial membrane,20,AGAP028364
+CC,GO:0031966,mitochondrial membrane,20,AGAP028366
+CC,GO:0031966,mitochondrial membrane,20,AGAP028371
+CC,GO:0031966,mitochondrial membrane,20,AGAP028383
+CC,GO:0031966,mitochondrial membrane,20,AGAP028386
+CC,GO:0031966,mitochondrial membrane,20,AGAP028387
+CC,GO:0005740,mitochondrial envelope,20,AGAP000118
+CC,GO:0005740,mitochondrial envelope,20,AGAP000170
+CC,GO:0005740,mitochondrial envelope,20,AGAP000260
+CC,GO:0005740,mitochondrial envelope,20,AGAP000291
+CC,GO:0005740,mitochondrial envelope,20,AGAP000523
+CC,GO:0005740,mitochondrial envelope,20,AGAP000618
+CC,GO:0005740,mitochondrial envelope,20,AGAP000849
+CC,GO:0005740,mitochondrial envelope,20,AGAP000851
+CC,GO:0005740,mitochondrial envelope,20,AGAP000935
+CC,GO:0005740,mitochondrial envelope,20,AGAP001138
+CC,GO:0005740,mitochondrial envelope,20,AGAP001711
+CC,GO:0005740,mitochondrial envelope,20,AGAP002020
+CC,GO:0005740,mitochondrial envelope,20,AGAP002170
+CC,GO:0005740,mitochondrial envelope,20,AGAP002245
+CC,GO:0005740,mitochondrial envelope,20,AGAP002630
+CC,GO:0005740,mitochondrial envelope,20,AGAP002788
+CC,GO:0005740,mitochondrial envelope,20,AGAP002889
+CC,GO:0005740,mitochondrial envelope,20,AGAP002906
+CC,GO:0005740,mitochondrial envelope,20,AGAP003199
+CC,GO:0005740,mitochondrial envelope,20,AGAP003231
+CC,GO:0005740,mitochondrial envelope,20,AGAP003325
+CC,GO:0005740,mitochondrial envelope,20,AGAP003900
+CC,GO:0005740,mitochondrial envelope,20,AGAP004519
+CC,GO:0005740,mitochondrial envelope,20,AGAP004616
+CC,GO:0005740,mitochondrial envelope,20,AGAP004710
+CC,GO:0005740,mitochondrial envelope,20,AGAP004788
+CC,GO:0005740,mitochondrial envelope,20,AGAP004906
+CC,GO:0005740,mitochondrial envelope,20,AGAP005421
+CC,GO:0005740,mitochondrial envelope,20,AGAP005621
+CC,GO:0005740,mitochondrial envelope,20,AGAP006330
+CC,GO:0005740,mitochondrial envelope,20,AGAP006456
+CC,GO:0005740,mitochondrial envelope,20,AGAP006879
+CC,GO:0005740,mitochondrial envelope,20,AGAP006936
+CC,GO:0005740,mitochondrial envelope,20,AGAP006949
+CC,GO:0005740,mitochondrial envelope,20,AGAP007119
+CC,GO:0005740,mitochondrial envelope,20,AGAP007297
+CC,GO:0005740,mitochondrial envelope,20,AGAP007380
+CC,GO:0005740,mitochondrial envelope,20,AGAP007722
+CC,GO:0005740,mitochondrial envelope,20,AGAP007780
+CC,GO:0005740,mitochondrial envelope,20,AGAP007841
+CC,GO:0005740,mitochondrial envelope,20,AGAP007966
+CC,GO:0005740,mitochondrial envelope,20,AGAP008572
+CC,GO:0005740,mitochondrial envelope,20,AGAP008653
+CC,GO:0005740,mitochondrial envelope,20,AGAP008727
+CC,GO:0005740,mitochondrial envelope,20,AGAP008774
+CC,GO:0005740,mitochondrial envelope,20,AGAP008955
+CC,GO:0005740,mitochondrial envelope,20,AGAP009072
+CC,GO:0005740,mitochondrial envelope,20,AGAP009323
+CC,GO:0005740,mitochondrial envelope,20,AGAP009333
+CC,GO:0005740,mitochondrial envelope,20,AGAP009491
+CC,GO:0005740,mitochondrial envelope,20,AGAP009602
+CC,GO:0005740,mitochondrial envelope,20,AGAP009652
+CC,GO:0005740,mitochondrial envelope,20,AGAP009833
+CC,GO:0005740,mitochondrial envelope,20,AGAP009852
+CC,GO:0005740,mitochondrial envelope,20,AGAP009865
+CC,GO:0005740,mitochondrial envelope,20,AGAP010227
+CC,GO:0005740,mitochondrial envelope,20,AGAP010337
+CC,GO:0005740,mitochondrial envelope,20,AGAP010573
+CC,GO:0005740,mitochondrial envelope,20,AGAP010606
+CC,GO:0005740,mitochondrial envelope,20,AGAP010691
+CC,GO:0005740,mitochondrial envelope,20,AGAP011131
+CC,GO:0005740,mitochondrial envelope,20,AGAP011159
+CC,GO:0005740,mitochondrial envelope,20,AGAP011445
+CC,GO:0005740,mitochondrial envelope,20,AGAP011696
+CC,GO:0005740,mitochondrial envelope,20,AGAP011829
+CC,GO:0005740,mitochondrial envelope,20,AGAP012081
+CC,GO:0005740,mitochondrial envelope,20,AGAP012106
+CC,GO:0005740,mitochondrial envelope,20,AGAP012145
+CC,GO:0005740,mitochondrial envelope,20,AGAP012188
+CC,GO:0005740,mitochondrial envelope,20,AGAP012374
+CC,GO:0005740,mitochondrial envelope,20,AGAP012533
+CC,GO:0005740,mitochondrial envelope,20,AGAP012705
+CC,GO:0005740,mitochondrial envelope,20,AGAP012770
+CC,GO:0005740,mitochondrial envelope,20,AGAP013336
+CC,GO:0005740,mitochondrial envelope,20,AGAP028364
+CC,GO:0005740,mitochondrial envelope,20,AGAP028366
+CC,GO:0005740,mitochondrial envelope,20,AGAP028371
+CC,GO:0005740,mitochondrial envelope,20,AGAP028383
+CC,GO:0005740,mitochondrial envelope,20,AGAP028386
+CC,GO:0005740,mitochondrial envelope,20,AGAP028387
+CC,GO:0044455,mitochondrial membrane part,20,AGAP000118
+CC,GO:0044455,mitochondrial membrane part,20,AGAP000170
+CC,GO:0044455,mitochondrial membrane part,20,AGAP000260
+CC,GO:0044455,mitochondrial membrane part,20,AGAP000523
+CC,GO:0044455,mitochondrial membrane part,20,AGAP000618
+CC,GO:0044455,mitochondrial membrane part,20,AGAP000849
+CC,GO:0044455,mitochondrial membrane part,20,AGAP000851
+CC,GO:0044455,mitochondrial membrane part,20,AGAP001138
+CC,GO:0044455,mitochondrial membrane part,20,AGAP001711
+CC,GO:0044455,mitochondrial membrane part,20,AGAP002020
+CC,GO:0044455,mitochondrial membrane part,20,AGAP002170
+CC,GO:0044455,mitochondrial membrane part,20,AGAP002245
+CC,GO:0044455,mitochondrial membrane part,20,AGAP002630
+CC,GO:0044455,mitochondrial membrane part,20,AGAP002788
+CC,GO:0044455,mitochondrial membrane part,20,AGAP002889
+CC,GO:0044455,mitochondrial membrane part,20,AGAP002906
+CC,GO:0044455,mitochondrial membrane part,20,AGAP003199
+CC,GO:0044455,mitochondrial membrane part,20,AGAP003231
+CC,GO:0044455,mitochondrial membrane part,20,AGAP003325
+CC,GO:0044455,mitochondrial membrane part,20,AGAP003900
+CC,GO:0044455,mitochondrial membrane part,20,AGAP004519
+CC,GO:0044455,mitochondrial membrane part,20,AGAP004616
+CC,GO:0044455,mitochondrial membrane part,20,AGAP004710
+CC,GO:0044455,mitochondrial membrane part,20,AGAP004788
+CC,GO:0044455,mitochondrial membrane part,20,AGAP004906
+CC,GO:0044455,mitochondrial membrane part,20,AGAP005421
+CC,GO:0044455,mitochondrial membrane part,20,AGAP005621
+CC,GO:0044455,mitochondrial membrane part,20,AGAP006330
+CC,GO:0044455,mitochondrial membrane part,20,AGAP006456
+CC,GO:0044455,mitochondrial membrane part,20,AGAP006879
+CC,GO:0044455,mitochondrial membrane part,20,AGAP006936
+CC,GO:0044455,mitochondrial membrane part,20,AGAP007119
+CC,GO:0044455,mitochondrial membrane part,20,AGAP007297
+CC,GO:0044455,mitochondrial membrane part,20,AGAP007380
+CC,GO:0044455,mitochondrial membrane part,20,AGAP007780
+CC,GO:0044455,mitochondrial membrane part,20,AGAP007841
+CC,GO:0044455,mitochondrial membrane part,20,AGAP007966
+CC,GO:0044455,mitochondrial membrane part,20,AGAP008572
+CC,GO:0044455,mitochondrial membrane part,20,AGAP008653
+CC,GO:0044455,mitochondrial membrane part,20,AGAP008727
+CC,GO:0044455,mitochondrial membrane part,20,AGAP008955
+CC,GO:0044455,mitochondrial membrane part,20,AGAP009072
+CC,GO:0044455,mitochondrial membrane part,20,AGAP009491
+CC,GO:0044455,mitochondrial membrane part,20,AGAP009602
+CC,GO:0044455,mitochondrial membrane part,20,AGAP009652
+CC,GO:0044455,mitochondrial membrane part,20,AGAP009852
+CC,GO:0044455,mitochondrial membrane part,20,AGAP009865
+CC,GO:0044455,mitochondrial membrane part,20,AGAP010227
+CC,GO:0044455,mitochondrial membrane part,20,AGAP010337
+CC,GO:0044455,mitochondrial membrane part,20,AGAP010573
+CC,GO:0044455,mitochondrial membrane part,20,AGAP011131
+CC,GO:0044455,mitochondrial membrane part,20,AGAP011159
+CC,GO:0044455,mitochondrial membrane part,20,AGAP011829
+CC,GO:0044455,mitochondrial membrane part,20,AGAP012081
+CC,GO:0044455,mitochondrial membrane part,20,AGAP012106
+CC,GO:0044455,mitochondrial membrane part,20,AGAP012145
+CC,GO:0044455,mitochondrial membrane part,20,AGAP012188
+CC,GO:0044455,mitochondrial membrane part,20,AGAP012374
+CC,GO:0044455,mitochondrial membrane part,20,AGAP012533
+CC,GO:0044455,mitochondrial membrane part,20,AGAP012705
+CC,GO:0044455,mitochondrial membrane part,20,AGAP012770
+CC,GO:0044455,mitochondrial membrane part,20,AGAP013336
+CC,GO:0044455,mitochondrial membrane part,20,AGAP028364
+CC,GO:0044455,mitochondrial membrane part,20,AGAP028383
+CC,GO:0044455,mitochondrial membrane part,20,AGAP028387
+CC,GO:0019866,organelle inner membrane,20,AGAP000118
+CC,GO:0019866,organelle inner membrane,20,AGAP000170
+CC,GO:0019866,organelle inner membrane,20,AGAP000260
+CC,GO:0019866,organelle inner membrane,20,AGAP000291
+CC,GO:0019866,organelle inner membrane,20,AGAP000523
+CC,GO:0019866,organelle inner membrane,20,AGAP000618
+CC,GO:0019866,organelle inner membrane,20,AGAP000849
+CC,GO:0019866,organelle inner membrane,20,AGAP000851
+CC,GO:0019866,organelle inner membrane,20,AGAP000935
+CC,GO:0019866,organelle inner membrane,20,AGAP001138
+CC,GO:0019866,organelle inner membrane,20,AGAP001711
+CC,GO:0019866,organelle inner membrane,20,AGAP002020
+CC,GO:0019866,organelle inner membrane,20,AGAP002170
+CC,GO:0019866,organelle inner membrane,20,AGAP002245
+CC,GO:0019866,organelle inner membrane,20,AGAP002630
+CC,GO:0019866,organelle inner membrane,20,AGAP002788
+CC,GO:0019866,organelle inner membrane,20,AGAP002889
+CC,GO:0019866,organelle inner membrane,20,AGAP002906
+CC,GO:0019866,organelle inner membrane,20,AGAP003199
+CC,GO:0019866,organelle inner membrane,20,AGAP003231
+CC,GO:0019866,organelle inner membrane,20,AGAP003325
+CC,GO:0019866,organelle inner membrane,20,AGAP003900
+CC,GO:0019866,organelle inner membrane,20,AGAP004519
+CC,GO:0019866,organelle inner membrane,20,AGAP004616
+CC,GO:0019866,organelle inner membrane,20,AGAP004710
+CC,GO:0019866,organelle inner membrane,20,AGAP004788
+CC,GO:0019866,organelle inner membrane,20,AGAP004906
+CC,GO:0019866,organelle inner membrane,20,AGAP005421
+CC,GO:0019866,organelle inner membrane,20,AGAP005621
+CC,GO:0019866,organelle inner membrane,20,AGAP006330
+CC,GO:0019866,organelle inner membrane,20,AGAP006456
+CC,GO:0019866,organelle inner membrane,20,AGAP006879
+CC,GO:0019866,organelle inner membrane,20,AGAP006936
+CC,GO:0019866,organelle inner membrane,20,AGAP006949
+CC,GO:0019866,organelle inner membrane,20,AGAP007119
+CC,GO:0019866,organelle inner membrane,20,AGAP007297
+CC,GO:0019866,organelle inner membrane,20,AGAP007380
+CC,GO:0019866,organelle inner membrane,20,AGAP007780
+CC,GO:0019866,organelle inner membrane,20,AGAP007841
+CC,GO:0019866,organelle inner membrane,20,AGAP007966
+CC,GO:0019866,organelle inner membrane,20,AGAP008572
+CC,GO:0019866,organelle inner membrane,20,AGAP008653
+CC,GO:0019866,organelle inner membrane,20,AGAP008727
+CC,GO:0019866,organelle inner membrane,20,AGAP008774
+CC,GO:0019866,organelle inner membrane,20,AGAP008955
+CC,GO:0019866,organelle inner membrane,20,AGAP009072
+CC,GO:0019866,organelle inner membrane,20,AGAP009323
+CC,GO:0019866,organelle inner membrane,20,AGAP009491
+CC,GO:0019866,organelle inner membrane,20,AGAP009602
+CC,GO:0019866,organelle inner membrane,20,AGAP009652
+CC,GO:0019866,organelle inner membrane,20,AGAP009865
+CC,GO:0019866,organelle inner membrane,20,AGAP010337
+CC,GO:0019866,organelle inner membrane,20,AGAP010573
+CC,GO:0019866,organelle inner membrane,20,AGAP010691
+CC,GO:0019866,organelle inner membrane,20,AGAP011131
+CC,GO:0019866,organelle inner membrane,20,AGAP011159
+CC,GO:0019866,organelle inner membrane,20,AGAP011696
+CC,GO:0019866,organelle inner membrane,20,AGAP011829
+CC,GO:0019866,organelle inner membrane,20,AGAP012081
+CC,GO:0019866,organelle inner membrane,20,AGAP012106
+CC,GO:0019866,organelle inner membrane,20,AGAP012145
+CC,GO:0019866,organelle inner membrane,20,AGAP012188
+CC,GO:0019866,organelle inner membrane,20,AGAP012374
+CC,GO:0019866,organelle inner membrane,20,AGAP012533
+CC,GO:0019866,organelle inner membrane,20,AGAP012705
+CC,GO:0019866,organelle inner membrane,20,AGAP012770
+CC,GO:0019866,organelle inner membrane,20,AGAP013336
+CC,GO:0019866,organelle inner membrane,20,AGAP028364
+CC,GO:0019866,organelle inner membrane,20,AGAP028366
+CC,GO:0019866,organelle inner membrane,20,AGAP028371
+CC,GO:0019866,organelle inner membrane,20,AGAP028383
+CC,GO:0019866,organelle inner membrane,20,AGAP028387
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP000118
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP000170
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP000260
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP000291
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP000523
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP000618
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP000849
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP000851
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP000935
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP001138
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP001711
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP002020
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP002170
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP002245
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP002630
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP002788
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP002889
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP002906
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP003199
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP003231
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP003325
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP003900
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP004519
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP004616
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP004710
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP004788
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP004906
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP005421
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP005621
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP006330
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP006456
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP006879
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP006936
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP006949
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP007119
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP007297
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP007380
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP007780
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP007841
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP007966
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP008572
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP008653
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP008727
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP008774
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP008955
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP009072
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP009323
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP009491
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP009602
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP009652
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP009865
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP010337
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP010573
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP010691
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP011131
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP011159
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP011696
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP011829
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP012081
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP012106
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP012145
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP012188
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP012374
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP012533
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP012705
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP012770
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP013336
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP028364
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP028366
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP028371
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP028383
+CC,GO:0005743,mitochondrial inner membrane,20,AGAP028387

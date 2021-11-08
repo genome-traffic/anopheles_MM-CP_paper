@@ -1,7 +1,5 @@
 library(ggplot2)
 library(RColorBrewer)
-#library(Hmisc)
-#library(plyr)
 library(dplyr)
 library("extrafont")
 loadfonts()
@@ -11,17 +9,6 @@ getwd()
 
 # --- data input
 os_all<-read.table("oocyst_size_backcross.csv", header=T, sep=",")
-
-
-# ---------- summarize ----------
-# 
-# oos <- ddply(oo, c("Strain", "SB","dpi"), summarise,
-#                N    = length(Size),
-#                mean = mean(Size),
-#               median = median(Size),
-#                sd   = sd(Size),
-#                se   = sd / sqrt(N))
-
 
 # ---------- plot ----------
 

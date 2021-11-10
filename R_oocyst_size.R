@@ -31,12 +31,16 @@ ggsave("panel_2D.pdf", width = 24, height = 10, units = "cm",family = "Arial")
 
 # ---------- stats ----------
 
-os_Pf <- subset(os_Pf, StrainSB != "MM-CP single bloodmeal")
-os_Pf <- subset(os_Pf, dpi == "15")
-sizeWT <- subset(os_Pf, Strain == "WT")
-sizeCP <- subset(os_Pf, Strain == "MM-CP")
-var.test(sizeWT$Size, sizeCP$Size)
-sizetest <- t.test(sizeWT$Size, sizeCP$Size, var.equal = FALSE)
+#os_Pf <- subset(os_Pf, StrainSB != "MM-CP single bloodmeal")
+#os_Pf <- subset(os_Pf, dpi == "7")
+os_Pf <- subset(os_Pf, dpi == "7" & Strain != "WT")
+#sizeWT <- subset(os_Pf, Strain == "WT")
+#sizeCP <- subset(os_Pf, Strain == "MM-CP")
+sizeSB <- subset(os_Pf, SB == "single bloodmeal")
+sizeDB <- subset(os_Pf, SB != "single bloodmeal")
+#Welch's
+#sizetest <- t.test(sizeWT$Size, sizeCP$Size, var.equal = FALSE)
+sizetest <- t.test(sizeSB$Size, sizeDB$Size, var.equal = FALSE)
 print(sizetest)
 
 
@@ -61,7 +65,6 @@ ggsave("panel_2E.pdf", width = 7, height = 10, units = "cm",family = "Arial")
 
 sizeWT <- subset(os_Pb, Strain == "WT")
 sizeCP <- subset(os_Pb, Strain == "MM-CP")
-var.test(sizeWT$Size, sizeCP$Size)
 sizetest <- t.test(sizeWT$Size, sizeCP$Size, var.equal = FALSE)
 print(sizetest)
 

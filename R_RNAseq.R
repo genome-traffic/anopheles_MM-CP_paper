@@ -7,7 +7,6 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 # ---------- data input ----------
 
 timepoint = "6" # "0","6" or "20"
-data <- read.table("0_all.csv", sep=",", header=TRUE)
 data <- read.table(paste0(timepoint, "_all.csv"), sep=",", header=TRUE)
 golist <- read.table("GO.csv", sep=",", header=TRUE)
 
